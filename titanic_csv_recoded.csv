@@ -1,0 +1,1310 @@
+name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest,passenger.class,survival
+"Allen, Miss. Elisabeth Walton",female,29,0,0,24160,211.3375,B5,S,2,NA,"St Louis, MO",1st,lived
+"Allison, Master. Hudson Trevor",male,0.9167,1,2,113781,151.55,C22 C26,S,11,NA,"Montreal, PQ / Chesterville, ON",1st,lived
+"Allison, Miss. Helen Loraine",female,2,1,2,113781,151.55,C22 C26,S,NA,NA,"Montreal, PQ / Chesterville, ON",1st,died
+"Allison, Mr. Hudson Joshua Creighton",male,30,1,2,113781,151.55,C22 C26,S,NA,135,"Montreal, PQ / Chesterville, ON",1st,died
+"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25,1,2,113781,151.55,C22 C26,S,NA,NA,"Montreal, PQ / Chesterville, ON",1st,died
+"Anderson, Mr. Harry",male,48,0,0,19952,26.55,E12,S,3,NA,"New York, NY",1st,lived
+"Andrews, Miss. Kornelia Theodosia",female,63,1,0,13502,77.9583,D7,S,10,NA,"Hudson, NY",1st,lived
+"Andrews, Mr. Thomas Jr",male,39,0,0,112050,0,A36,S,NA,NA,"Belfast, NI",1st,died
+"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53,2,0,11769,51.4792,C101,S,D,NA,"Bayside, Queens, NY",1st,lived
+"Artagaveytia, Mr. Ramon",male,71,0,0,PC 17609,49.5042,NA,C,NA,22,"Montevideo, Uruguay",1st,died
+"Astor, Col. John Jacob",male,47,1,0,PC 17757,227.525,C62 C64,C,NA,124,"New York, NY",1st,died
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18,1,0,PC 17757,227.525,C62 C64,C,4,NA,"New York, NY",1st,lived
+"Aubart, Mme. Leontine Pauline",female,24,0,0,PC 17477,69.3,B35,C,9,NA,"Paris, France",1st,lived
+"Barber, Miss. Ellen ""Nellie""",female,26,0,0,19877,78.85,NA,S,6,NA,NA,1st,lived
+"Barkworth, Mr. Algernon Henry Wilson",male,80,0,0,27042,30,A23,S,B,NA,"Hessle, Yorks",1st,lived
+"Baumann, Mr. John D",male,NA,0,0,PC 17318,25.925,NA,S,NA,NA,"New York, NY",1st,died
+"Baxter, Mr. Quigg Edmond",male,24,0,1,PC 17558,247.5208,B58 B60,C,NA,NA,"Montreal, PQ",1st,died
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50,0,1,PC 17558,247.5208,B58 B60,C,6,NA,"Montreal, PQ",1st,lived
+"Bazzani, Miss. Albina",female,32,0,0,11813,76.2917,D15,C,8,NA,NA,1st,lived
+"Beattie, Mr. Thomson",male,36,0,0,13050,75.2417,C6,C,A,NA,"Winnipeg, MN",1st,died
+"Beckwith, Mr. Richard Leonard",male,37,1,1,11751,52.5542,D35,S,5,NA,"New York, NY",1st,lived
+"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47,1,1,11751,52.5542,D35,S,5,NA,"New York, NY",1st,lived
+"Behr, Mr. Karl Howell",male,26,0,0,111369,30,C148,C,5,NA,"New York, NY",1st,lived
+"Bidois, Miss. Rosalie",female,42,0,0,PC 17757,227.525,NA,C,4,NA,NA,1st,lived
+"Bird, Miss. Ellen",female,29,0,0,PC 17483,221.7792,C97,S,8,NA,NA,1st,lived
+"Birnbaum, Mr. Jakob",male,25,0,0,13905,26,NA,C,NA,148,"San Francisco, CA",1st,died
+"Bishop, Mr. Dickinson H",male,25,1,0,11967,91.0792,B49,C,7,NA,"Dowagiac, MI",1st,lived
+"Bishop, Mrs. Dickinson H (Helen Walton)",female,19,1,0,11967,91.0792,B49,C,7,NA,"Dowagiac, MI",1st,lived
+"Bissette, Miss. Amelia",female,35,0,0,PC 17760,135.6333,C99,S,8,NA,NA,1st,lived
+"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28,0,0,110564,26.55,C52,S,D,NA,"Stockholm, Sweden / Washington, DC",1st,lived
+"Blackwell, Mr. Stephen Weart",male,45,0,0,113784,35.5,T,S,NA,NA,"Trenton, NJ",1st,died
+"Blank, Mr. Henry",male,40,0,0,112277,31,A31,C,7,NA,"Glen Ridge, NJ",1st,lived
+"Bonnell, Miss. Caroline",female,30,0,0,36928,164.8667,C7,S,8,NA,"Youngstown, OH",1st,lived
+"Bonnell, Miss. Elizabeth",female,58,0,0,113783,26.55,C103,S,8,NA,"Birkdale, England Cleveland, Ohio",1st,lived
+"Borebank, Mr. John James",male,42,0,0,110489,26.55,D22,S,NA,NA,"London / Winnipeg, MB",1st,died
+"Bowen, Miss. Grace Scott",female,45,0,0,PC 17608,262.375,NA,C,4,NA,"Cooperstown, NY",1st,lived
+"Bowerman, Miss. Elsie Edith",female,22,0,1,113505,55,E33,S,6,NA,"St Leonards-on-Sea, England Ohio",1st,lived
+"Bradley, Mr. George (""George Arthur Brayton"")",male,NA,0,0,111427,26.55,NA,S,9,NA,"Los Angeles, CA",1st,lived
+"Brady, Mr. John Bertram",male,41,0,0,113054,30.5,A21,S,NA,NA,"Pomeroy, WA",1st,died
+"Brandeis, Mr. Emil",male,48,0,0,PC 17591,50.4958,B10,C,NA,208,"Omaha, NE",1st,died
+"Brewe, Dr. Arthur Jackson",male,NA,0,0,112379,39.6,NA,C,NA,NA,"Philadelphia, PA",1st,died
+"Brown, Mrs. James Joseph (Margaret Tobin)",female,44,0,0,PC 17610,27.7208,B4,C,6,NA,"Denver, CO",1st,lived
+"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59,2,0,11769,51.4792,C101,S,D,NA,"Belmont, MA",1st,lived
+"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60,0,0,11813,76.2917,D15,C,8,NA,"Philadelphia, PA",1st,lived
+"Burns, Miss. Elizabeth Margaret",female,41,0,0,16966,134.5,E40,C,3,NA,NA,1st,lived
+"Butt, Major. Archibald Willingham",male,45,0,0,113050,26.55,B38,S,NA,NA,"Washington, DC",1st,died
+"Cairns, Mr. Alexander",male,NA,0,0,113798,31,NA,S,NA,NA,NA,1st,died
+"Calderhead, Mr. Edward Pennington",male,42,0,0,PC 17476,26.2875,E24,S,5,NA,"New York, NY",1st,lived
+"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53,0,0,PC 17606,27.4458,NA,C,6,NA,"Washington, DC",1st,lived
+"Cardeza, Mr. Thomas Drake Martinez",male,36,0,1,PC 17755,512.3292,B51 B53 B55,C,3,NA,"Austria-Hungary / Germantown, Philadelphia, PA",1st,lived
+"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58,0,1,PC 17755,512.3292,B51 B53 B55,C,3,NA,"Germantown, Philadelphia, PA",1st,lived
+"Carlsson, Mr. Frans Olof",male,33,0,0,695,5,B51 B53 B55,S,NA,NA,"New York, NY",1st,died
+"Carrau, Mr. Francisco M",male,28,0,0,113059,47.1,NA,S,NA,NA,"Montevideo, Uruguay",1st,died
+"Carrau, Mr. Jose Pedro",male,17,0,0,113059,47.1,NA,S,NA,NA,"Montevideo, Uruguay",1st,died
+"Carter, Master. William Thornton II",male,11,1,2,113760,120,B96 B98,S,4,NA,"Bryn Mawr, PA",1st,lived
+"Carter, Miss. Lucile Polk",female,14,1,2,113760,120,B96 B98,S,4,NA,"Bryn Mawr, PA",1st,lived
+"Carter, Mr. William Ernest",male,36,1,2,113760,120,B96 B98,S,C,NA,"Bryn Mawr, PA",1st,lived
+"Carter, Mrs. William Ernest (Lucile Polk)",female,36,1,2,113760,120,B96 B98,S,4,NA,"Bryn Mawr, PA",1st,lived
+"Case, Mr. Howard Brown",male,49,0,0,19924,26,NA,S,NA,NA,"Ascot, Berkshire / Rochester, NY",1st,died
+"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,NA,0,0,17770,27.7208,NA,C,5,NA,"New York, NY",1st,lived
+"Cavendish, Mr. Tyrell William",male,36,1,0,19877,78.85,C46,S,NA,172,"Little Onn Hall, Staffs",1st,died
+"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76,1,0,19877,78.85,C46,S,6,NA,"Little Onn Hall, Staffs",1st,lived
+"Chaffee, Mr. Herbert Fuller",male,46,1,0,W.E.P. 5734,61.175,E31,S,NA,NA,"Amenia, ND",1st,died
+"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47,1,0,W.E.P. 5734,61.175,E31,S,4,NA,"Amenia, ND",1st,lived
+"Chambers, Mr. Norman Campbell",male,27,1,0,113806,53.1,E8,S,5,NA,"New York, NY / Ithaca, NY",1st,lived
+"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33,1,0,113806,53.1,E8,S,5,NA,"New York, NY / Ithaca, NY",1st,lived
+"Chaudanson, Miss. Victorine",female,36,0,0,PC 17608,262.375,B61,C,4,NA,NA,1st,lived
+"Cherry, Miss. Gladys",female,30,0,0,110152,86.5,B77,S,8,NA,"London, England",1st,lived
+"Chevre, Mr. Paul Romaine",male,45,0,0,PC 17594,29.7,A9,C,7,NA,"Paris, France",1st,lived
+"Chibnall, Mrs. (Edith Martha Bowerman)",female,NA,0,1,113505,55,E33,S,6,NA,"St Leonards-on-Sea, England Ohio",1st,lived
+"Chisholm, Mr. Roderick Robert Crispin",male,NA,0,0,112051,0,NA,S,NA,NA,"Liverpool, England / Belfast",1st,died
+"Clark, Mr. Walter Miller",male,27,1,0,13508,136.7792,C89,C,NA,NA,"Los Angeles, CA",1st,died
+"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26,1,0,13508,136.7792,C89,C,4,NA,"Los Angeles, CA",1st,lived
+"Cleaver, Miss. Alice",female,22,0,0,113781,151.55,NA,S,11,NA,NA,1st,lived
+"Clifford, Mr. George Quincy",male,NA,0,0,110465,52,A14,S,NA,NA,"Stoughton, MA",1st,died
+"Colley, Mr. Edward Pomeroy",male,47,0,0,5727,25.5875,E58,S,NA,NA,"Victoria, BC",1st,died
+"Compton, Miss. Sara Rebecca",female,39,1,1,PC 17756,83.1583,E49,C,14,NA,"Lakewood, NJ",1st,lived
+"Compton, Mr. Alexander Taylor Jr",male,37,1,1,PC 17756,83.1583,E52,C,NA,NA,"Lakewood, NJ",1st,died
+"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64,0,2,PC 17756,83.1583,E45,C,14,NA,"Lakewood, NJ",1st,lived
+"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55,2,0,11770,25.7,C101,S,2,NA,"New York, NY",1st,lived
+"Crafton, Mr. John Bertram",male,NA,0,0,113791,26.55,NA,S,NA,NA,"Roachdale, IN",1st,died
+"Crosby, Capt. Edward Gifford",male,70,1,1,WE/P 5735,71,B22,S,NA,269,"Milwaukee, WI",1st,died
+"Crosby, Miss. Harriet R",female,36,0,2,WE/P 5735,71,B22,S,7,NA,"Milwaukee, WI",1st,lived
+"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64,1,1,112901,26.55,B26,S,7,NA,"Milwaukee, WI",1st,lived
+"Cumings, Mr. John Bradley",male,39,1,0,PC 17599,71.2833,C85,C,NA,NA,"New York, NY",1st,died
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,71.2833,C85,C,4,NA,"New York, NY",1st,lived
+"Daly, Mr. Peter Denis",male,51,0,0,113055,26.55,E17,S,5 9,NA,"Lima, Peru",1st,lived
+"Daniel, Mr. Robert Williams",male,27,0,0,113804,30.5,NA,S,3,NA,"Philadelphia, PA",1st,lived
+"Daniels, Miss. Sarah",female,33,0,0,113781,151.55,NA,S,8,NA,NA,1st,lived
+"Davidson, Mr. Thornton",male,31,1,0,F.C. 12750,52,B71,S,NA,NA,"Montreal, PQ",1st,died
+"Davidson, Mrs. Thornton (Orian Hays)",female,27,1,2,F.C. 12750,52,B71,S,3,NA,"Montreal, PQ",1st,lived
+"Dick, Mr. Albert Adrian",male,31,1,0,17474,57,B20,S,3,NA,"Calgary, AB",1st,lived
+"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17,1,0,17474,57,B20,S,3,NA,"Calgary, AB",1st,lived
+"Dodge, Dr. Washington",male,53,1,1,33638,81.8583,A34,S,13,NA,"San Francisco, CA",1st,lived
+"Dodge, Master. Washington",male,4,0,2,33638,81.8583,A34,S,5,NA,"San Francisco, CA",1st,lived
+"Dodge, Mrs. Washington (Ruth Vidaver)",female,54,1,1,33638,81.8583,A34,S,5,NA,"San Francisco, CA",1st,lived
+"Douglas, Mr. Walter Donald",male,50,1,0,PC 17761,106.425,C86,C,NA,62,"Deephaven, MN / Cedar Rapids, IA",1st,died
+"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27,1,1,PC 17558,247.5208,B58 B60,C,6,NA,"Montreal, PQ",1st,lived
+"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48,1,0,PC 17761,106.425,C86,C,2,NA,"Deephaven, MN / Cedar Rapids, IA",1st,lived
+"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48,1,0,11755,39.6,A16,C,1,NA,London / Paris,1st,lived
+"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49,1,0,PC 17485,56.9292,A20,C,1,NA,London / Paris,1st,lived
+"Dulles, Mr. William Crothers",male,39,0,0,PC 17580,29.7,A18,C,NA,133,"Philadelphia, PA",1st,died
+"Earnshaw, Mrs. Boulton (Olive Potter)",female,23,0,1,11767,83.1583,C54,C,7,NA,"Mt Airy, Philadelphia, PA",1st,lived
+"Endres, Miss. Caroline Louise",female,38,0,0,PC 17757,227.525,C45,C,4,NA,"New York, NY",1st,lived
+"Eustis, Miss. Elizabeth Mussey",female,54,1,0,36947,78.2667,D20,C,4,NA,"Brookline, MA",1st,lived
+"Evans, Miss. Edith Corse",female,36,0,0,PC 17531,31.6792,A29,C,NA,NA,"New York, NY",1st,died
+"Farthing, Mr. John",male,NA,0,0,PC 17483,221.7792,C95,S,NA,NA,NA,1st,died
+"Flegenheim, Mrs. Alfred (Antoinette)",female,NA,0,0,PC 17598,31.6833,NA,S,7,NA,"New York, NY",1st,lived
+"Fleming, Miss. Margaret",female,NA,0,0,17421,110.8833,NA,C,4,NA,NA,1st,lived
+"Flynn, Mr. John Irwin (""Irving"")",male,36,0,0,PC 17474,26.3875,E25,S,5,NA,"Brooklyn, NY",1st,lived
+"Foreman, Mr. Benjamin Laventall",male,30,0,0,113051,27.75,C111,C,NA,NA,"New York, NY",1st,died
+"Fortune, Miss. Alice Elizabeth",female,24,3,2,19950,263,C23 C25 C27,S,10,NA,"Winnipeg, MB",1st,lived
+"Fortune, Miss. Ethel Flora",female,28,3,2,19950,263,C23 C25 C27,S,10,NA,"Winnipeg, MB",1st,lived
+"Fortune, Miss. Mabel Helen",female,23,3,2,19950,263,C23 C25 C27,S,10,NA,"Winnipeg, MB",1st,lived
+"Fortune, Mr. Charles Alexander",male,19,3,2,19950,263,C23 C25 C27,S,NA,NA,"Winnipeg, MB",1st,died
+"Fortune, Mr. Mark",male,64,1,4,19950,263,C23 C25 C27,S,NA,NA,"Winnipeg, MB",1st,died
+"Fortune, Mrs. Mark (Mary McDougald)",female,60,1,4,19950,263,C23 C25 C27,S,10,NA,"Winnipeg, MB",1st,lived
+"Francatelli, Miss. Laura Mabel",female,30,0,0,PC 17485,56.9292,E36,C,1,NA,NA,1st,lived
+"Franklin, Mr. Thomas Parham",male,NA,0,0,113778,26.55,D34,S,NA,NA,"Westcliff-on-Sea, Essex",1st,died
+"Frauenthal, Dr. Henry William",male,50,2,0,PC 17611,133.65,NA,S,5,NA,"New York, NY",1st,lived
+"Frauenthal, Mr. Isaac Gerald",male,43,1,0,17765,27.7208,D40,C,5,NA,"New York, NY",1st,lived
+"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,NA,1,0,PC 17611,133.65,NA,S,5,NA,"New York, NY",1st,lived
+"Frolicher, Miss. Hedwig Margaritha",female,22,0,2,13568,49.5,B39,C,5,NA,"Zurich, Switzerland",1st,lived
+"Frolicher-Stehli, Mr. Maxmillian",male,60,1,1,13567,79.2,B41,C,5,NA,"Zurich, Switzerland",1st,lived
+"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48,1,1,13567,79.2,B41,C,5,NA,"Zurich, Switzerland",1st,lived
+"Fry, Mr. Richard",male,NA,0,0,112058,0,B102,S,NA,NA,NA,1st,died
+"Futrelle, Mr. Jacques Heath",male,37,1,0,113803,53.1,C123,S,NA,NA,"Scituate, MA",1st,died
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,113803,53.1,C123,S,D,NA,"Scituate, MA",1st,lived
+"Gee, Mr. Arthur H",male,47,0,0,111320,38.5,E63,S,NA,275,"St Anne's-on-Sea, Lancashire",1st,died
+"Geiger, Miss. Amalie",female,35,0,0,113503,211.5,C130,C,4,NA,NA,1st,lived
+"Gibson, Miss. Dorothy Winifred",female,22,0,1,112378,59.4,NA,C,7,NA,"New York, NY",1st,lived
+"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45,0,1,112378,59.4,NA,C,7,NA,"New York, NY",1st,lived
+"Giglio, Mr. Victor",male,24,0,0,PC 17593,79.2,B86,C,NA,NA,NA,1st,died
+"Goldenberg, Mr. Samuel L",male,49,1,0,17453,89.1042,C92,C,5,NA,"Paris, France / New York, NY",1st,lived
+"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,NA,1,0,17453,89.1042,C92,C,5,NA,"Paris, France / New York, NY",1st,lived
+"Goldschmidt, Mr. George B",male,71,0,0,PC 17754,34.6542,A5,C,NA,NA,"New York, NY",1st,died
+"Gracie, Col. Archibald IV",male,53,0,0,113780,28.5,C51,C,B,NA,"Washington, DC",1st,lived
+"Graham, Miss. Margaret Edith",female,19,0,0,112053,30,B42,S,3,NA,"Greenwich, CT",1st,lived
+"Graham, Mr. George Edward",male,38,0,1,PC 17582,153.4625,C91,S,NA,147,"Winnipeg, MB",1st,died
+"Graham, Mrs. William Thompson (Edith Junkins)",female,58,0,1,PC 17582,153.4625,C125,S,3,NA,"Greenwich, CT",1st,lived
+"Greenfield, Mr. William Bertram",male,23,0,1,PC 17759,63.3583,D10 D12,C,7,NA,"New York, NY",1st,lived
+"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45,0,1,PC 17759,63.3583,D10 D12,C,7,NA,"New York, NY",1st,lived
+"Guggenheim, Mr. Benjamin",male,46,0,0,PC 17593,79.2,B82 B84,C,NA,NA,"New York, NY",1st,died
+"Harder, Mr. George Achilles",male,25,1,0,11765,55.4417,E50,C,5,NA,"Brooklyn, NY",1st,lived
+"Harder, Mrs. George Achilles (Dorothy Annan)",female,25,1,0,11765,55.4417,E50,C,5,NA,"Brooklyn, NY",1st,lived
+"Harper, Mr. Henry Sleeper",male,48,1,0,PC 17572,76.7292,D33,C,3,NA,"New York, NY",1st,lived
+"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49,1,0,PC 17572,76.7292,D33,C,3,NA,"New York, NY",1st,lived
+"Harrington, Mr. Charles H",male,NA,0,0,113796,42.4,NA,S,NA,NA,NA,1st,died
+"Harris, Mr. Henry Birkhardt",male,45,1,0,36973,83.475,C83,S,NA,NA,"New York, NY",1st,died
+"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35,1,0,36973,83.475,C83,S,D,NA,"New York, NY",1st,lived
+"Harrison, Mr. William",male,40,0,0,112059,0,B94,S,NA,110,NA,1st,died
+"Hassab, Mr. Hammad",male,27,0,0,PC 17572,76.7292,D49,C,3,NA,NA,1st,lived
+"Hawksford, Mr. Walter James",male,NA,0,0,16988,30,D45,S,3,NA,"Kingston, Surrey",1st,lived
+"Hays, Miss. Margaret Bechstein",female,24,0,0,11767,83.1583,C54,C,7,NA,"New York, NY",1st,lived
+"Hays, Mr. Charles Melville",male,55,1,1,12749,93.5,B69,S,NA,307,"Montreal, PQ",1st,died
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52,1,1,12749,93.5,B69,S,3,NA,"Montreal, PQ",1st,lived
+"Head, Mr. Christopher",male,42,0,0,113038,42.5,B11,S,NA,NA,London / Middlesex,1st,died
+"Hilliard, Mr. Herbert Henry",male,NA,0,0,17463,51.8625,E46,S,NA,NA,"Brighton, MA",1st,died
+"Hipkins, Mr. William Edward",male,55,0,0,680,50,C39,S,NA,NA,London / Birmingham,1st,died
+"Hippach, Miss. Jean Gertrude",female,16,0,1,111361,57.9792,B18,C,4,NA,"Chicago, IL",1st,lived
+"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44,0,1,111361,57.9792,B18,C,4,NA,"Chicago, IL",1st,lived
+"Hogeboom, Mrs. John C (Anna Andrews)",female,51,1,0,13502,77.9583,D11,S,10,NA,"Hudson, NY",1st,lived
+"Holverson, Mr. Alexander Oskar",male,42,1,0,113789,52,NA,S,NA,38,"New York, NY",1st,died
+"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35,1,0,113789,52,NA,S,8,NA,"New York, NY",1st,lived
+"Homer, Mr. Harry (""Mr E Haven"")",male,35,0,0,111426,26.55,NA,C,15,NA,"Indianapolis, IN",1st,lived
+"Hoyt, Mr. Frederick Maxfield",male,38,1,0,19943,90,C93,S,D,NA,"New York, NY /  Stamford CT",1st,lived
+"Hoyt, Mr. William Fisher",male,NA,0,0,PC 17600,30.6958,NA,C,14,NA,"New York, NY",1st,died
+"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35,1,0,19943,90,C93,S,D,NA,"New York, NY /  Stamford CT",1st,lived
+"Icard, Miss. Amelie",female,38,0,0,113572,80,B28,NA,6,NA,NA,1st,lived
+"Isham, Miss. Ann Elizabeth",female,50,0,0,PC 17595,28.7125,C49,C,NA,NA,"Paris, France New York, NY",1st,died
+"Ismay, Mr. Joseph Bruce",male,49,0,0,112058,0,B52 B54 B56,S,C,NA,Liverpool,1st,lived
+"Jones, Mr. Charles Cresson",male,46,0,0,694,26,NA,S,NA,80,"Bennington, VT",1st,died
+"Julian, Mr. Henry Forbes",male,50,0,0,113044,26,E60,S,NA,NA,London,1st,died
+"Keeping, Mr. Edwin",male,32.5,0,0,113503,211.5,C132,C,NA,45,NA,1st,died
+"Kent, Mr. Edward Austin",male,58,0,0,11771,29.7,B37,C,NA,258,"Buffalo, NY",1st,died
+"Kenyon, Mr. Frederick R",male,41,1,0,17464,51.8625,D21,S,NA,NA,"Southington / Noank, CT",1st,died
+"Kenyon, Mrs. Frederick R (Marion)",female,NA,1,0,17464,51.8625,D21,S,8,NA,"Southington / Noank, CT",1st,lived
+"Kimball, Mr. Edwin Nelson Jr",male,42,1,0,11753,52.5542,D19,S,5,NA,"Boston, MA",1st,lived
+"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45,1,0,11753,52.5542,D19,S,5,NA,"Boston, MA",1st,lived
+"Klaber, Mr. Herman",male,NA,0,0,113028,26.55,C124,S,NA,NA,"Portland, OR",1st,died
+"Kreuchen, Miss. Emilie",female,39,0,0,24160,211.3375,NA,S,2,NA,NA,1st,lived
+"Leader, Dr. Alice (Farnham)",female,49,0,0,17465,25.9292,D17,S,8,NA,"New York, NY",1st,lived
+"LeRoy, Miss. Bertha",female,30,0,0,PC 17761,106.425,NA,C,2,NA,NA,1st,lived
+"Lesurer, Mr. Gustave J",male,35,0,0,PC 17755,512.3292,B101,C,3,NA,NA,1st,lived
+"Lewy, Mr. Ervin G",male,NA,0,0,PC 17612,27.7208,NA,C,NA,NA,"Chicago, IL",1st,died
+"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",male,42,0,0,17475,26.55,NA,S,NA,NA,"Stockholm, Sweden",1st,died
+"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55,0,0,112377,27.7208,NA,C,6,NA,"Stockholm, Sweden",1st,lived
+"Lines, Miss. Mary Conover",female,16,0,1,PC 17592,39.4,D28,S,9,NA,"Paris, France",1st,lived
+"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51,0,1,PC 17592,39.4,D28,S,9,NA,"Paris, France",1st,lived
+"Long, Mr. Milton Clyde",male,29,0,0,113501,30,D6,S,NA,126,"Springfield, MA",1st,died
+"Longley, Miss. Gretchen Fiske",female,21,0,0,13502,77.9583,D9,S,10,NA,"Hudson, NY",1st,lived
+"Loring, Mr. Joseph Holland",male,30,0,0,113801,45.5,NA,S,NA,NA,"London / New York, NY",1st,died
+"Lurette, Miss. Elise",female,58,0,0,PC 17569,146.5208,B80,C,NA,NA,NA,1st,lived
+"Madill, Miss. Georgette Alexandra",female,15,0,1,24160,211.3375,B5,S,2,NA,"St Louis, MO",1st,lived
+"Maguire, Mr. John Edward",male,30,0,0,110469,26,C106,S,NA,NA,"Brockton, MA",1st,died
+"Maioni, Miss. Roberta",female,16,0,0,110152,86.5,B79,S,8,NA,NA,1st,lived
+"Marechal, Mr. Pierre",male,NA,0,0,11774,29.7,C47,C,7,NA,"Paris, France",1st,lived
+"Marvin, Mr. Daniel Warner",male,19,1,0,113773,53.1,D30,S,NA,NA,"New York, NY",1st,died
+"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18,1,0,113773,53.1,D30,S,10,NA,"New York, NY",1st,lived
+"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24,0,0,PC 17482,49.5042,C90,C,6,NA,"Belgium  Montreal, PQ",1st,lived
+"McCaffry, Mr. Thomas Francis",male,46,0,0,13050,75.2417,C6,C,NA,292,"Vancouver, BC",1st,died
+"McCarthy, Mr. Timothy J",male,54,0,0,17463,51.8625,E46,S,NA,175,"Dorchester, MA",1st,died
+"McGough, Mr. James Robert",male,36,0,0,PC 17473,26.2875,E25,S,7,NA,"Philadelphia, PA",1st,lived
+"Meyer, Mr. Edgar Joseph",male,28,1,0,PC 17604,82.1708,NA,C,NA,NA,"New York, NY",1st,died
+"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,NA,1,0,PC 17604,82.1708,NA,C,6,NA,"New York, NY",1st,lived
+"Millet, Mr. Francis Davis",male,65,0,0,13509,26.55,E38,S,NA,249,"East Bridgewater, MA",1st,died
+"Minahan, Dr. William Edward",male,44,2,0,19928,90,C78,Q,NA,230,"Fond du Lac, WI",1st,died
+"Minahan, Miss. Daisy E",female,33,1,0,19928,90,C78,Q,14,NA,"Green Bay, WI",1st,lived
+"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37,1,0,19928,90,C78,Q,14,NA,"Fond du Lac, WI",1st,lived
+"Mock, Mr. Philipp Edmund",male,30,1,0,13236,57.75,C78,C,11,NA,"New York, NY",1st,lived
+"Molson, Mr. Harry Markland",male,55,0,0,113787,30.5,C30,S,NA,NA,"Montreal, PQ",1st,died
+"Moore, Mr. Clarence Bloomfield",male,47,0,0,113796,42.4,NA,S,NA,NA,"Washington, DC",1st,died
+"Natsch, Mr. Charles H",male,37,0,1,PC 17596,29.7,C118,C,NA,NA,"Brooklyn, NY",1st,died
+"Newell, Miss. Madeleine",female,31,1,0,35273,113.275,D36,C,6,NA,"Lexington, MA",1st,lived
+"Newell, Miss. Marjorie",female,23,1,0,35273,113.275,D36,C,6,NA,"Lexington, MA",1st,lived
+"Newell, Mr. Arthur Webster",male,58,0,2,35273,113.275,D48,C,NA,122,"Lexington, MA",1st,died
+"Newsom, Miss. Helen Monypeny",female,19,0,2,11752,26.2833,D47,S,5,NA,"New York, NY",1st,lived
+"Nicholson, Mr. Arthur Ernest",male,64,0,0,693,26,NA,S,NA,263,"Isle of Wight, England",1st,died
+"Oliva y Ocana, Dona. Fermina",female,39,0,0,PC 17758,108.9,C105,C,8,NA,NA,1st,lived
+"Omont, Mr. Alfred Fernand",male,NA,0,0,F.C. 12998,25.7417,NA,C,7,NA,"Paris, France",1st,lived
+"Ostby, Miss. Helene Ragnhild",female,22,0,1,113509,61.9792,B36,C,5,NA,"Providence, RI",1st,lived
+"Ostby, Mr. Engelhart Cornelius",male,65,0,1,113509,61.9792,B30,C,NA,234,"Providence, RI",1st,died
+"Ovies y Rodriguez, Mr. Servando",male,28.5,0,0,PC 17562,27.7208,D43,C,NA,189,"?Havana, Cuba",1st,died
+"Parr, Mr. William Henry Marsh",male,NA,0,0,112052,0,NA,S,NA,NA,Belfast,1st,died
+"Partner, Mr. Austen",male,45.5,0,0,113043,28.5,C124,S,NA,166,"Surbiton Hill, Surrey",1st,died
+"Payne, Mr. Vivian Ponsonby",male,23,0,0,12749,93.5,B24,S,NA,NA,"Montreal, PQ",1st,died
+"Pears, Mr. Thomas Clinton",male,29,1,0,113776,66.6,C2,S,NA,NA,"Isleworth, England",1st,died
+"Pears, Mrs. Thomas (Edith Wearne)",female,22,1,0,113776,66.6,C2,S,8,NA,"Isleworth, England",1st,lived
+"Penasco y Castellana, Mr. Victor de Satode",male,18,1,0,PC 17758,108.9,C65,C,NA,NA,"Madrid, Spain",1st,died
+"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17,1,0,PC 17758,108.9,C65,C,8,NA,"Madrid, Spain",1st,lived
+"Perreault, Miss. Anne",female,30,0,0,12749,93.5,B73,S,3,NA,NA,1st,lived
+"Peuchen, Major. Arthur Godfrey",male,52,0,0,113786,30.5,C104,S,6,NA,"Toronto, ON",1st,lived
+"Porter, Mr. Walter Chamberlain",male,47,0,0,110465,52,C110,S,NA,207,"Worcester, MA",1st,died
+"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56,0,1,11767,83.1583,C50,C,7,NA,"Mt Airy, Philadelphia, PA",1st,lived
+"Reuchlin, Jonkheer. John George",male,38,0,0,19972,0,NA,S,NA,NA,"Rotterdam, Netherlands",1st,died
+"Rheims, Mr. George Alexander Lucien",male,NA,0,0,PC 17607,39.6,NA,S,A,NA,"Paris /  New York, NY",1st,lived
+"Ringhini, Mr. Sante",male,22,0,0,PC 17760,135.6333,NA,C,NA,232,NA,1st,died
+"Robbins, Mr. Victor",male,NA,0,0,PC 17757,227.525,NA,C,NA,NA,NA,1st,died
+"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43,0,1,24160,211.3375,B3,S,2,NA,"St Louis, MO",1st,lived
+"Roebling, Mr. Washington Augustus II",male,31,0,0,PC 17590,50.4958,A24,S,NA,NA,"Trenton, NJ",1st,died
+"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45,0,0,111428,26.55,NA,S,9,NA,"New York, NY",1st,lived
+"Rood, Mr. Hugh Roscoe",male,NA,0,0,113767,50,A32,S,NA,NA,"Seattle, WA",1st,died
+"Rosenbaum, Miss. Edith Louise",female,33,0,0,PC 17613,27.7208,A11,C,11,NA,"Paris, France",1st,lived
+"Rosenshine, Mr. George (""Mr George Thorne"")",male,46,0,0,PC 17585,79.2,NA,C,NA,16,"New York, NY",1st,died
+"Ross, Mr. John Hugo",male,36,0,0,13049,40.125,A10,C,NA,NA,"Winnipeg, MB",1st,died
+"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33,0,0,110152,86.5,B77,S,8,NA,"London  Vancouver, BC",1st,lived
+"Rothschild, Mr. Martin",male,55,1,0,PC 17603,59.4,NA,C,NA,NA,"New York, NY",1st,died
+"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54,1,0,PC 17603,59.4,NA,C,6,NA,"New York, NY",1st,lived
+"Rowe, Mr. Alfred G",male,33,0,0,113790,26.55,NA,S,NA,109,London,1st,died
+"Ryerson, Master. John Borie",male,13,2,2,PC 17608,262.375,B57 B59 B63 B66,C,4,NA,"Haverford, PA / Cooperstown, NY",1st,lived
+"Ryerson, Miss. Emily Borie",female,18,2,2,PC 17608,262.375,B57 B59 B63 B66,C,4,NA,"Haverford, PA / Cooperstown, NY",1st,lived
+"Ryerson, Miss. Susan Parker ""Suzette""",female,21,2,2,PC 17608,262.375,B57 B59 B63 B66,C,4,NA,"Haverford, PA / Cooperstown, NY",1st,lived
+"Ryerson, Mr. Arthur Larned",male,61,1,3,PC 17608,262.375,B57 B59 B63 B66,C,NA,NA,"Haverford, PA / Cooperstown, NY",1st,died
+"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48,1,3,PC 17608,262.375,B57 B59 B63 B66,C,4,NA,"Haverford, PA / Cooperstown, NY",1st,lived
+"Saalfeld, Mr. Adolphe",male,NA,0,0,19988,30.5,C106,S,3,NA,"Manchester, England",1st,lived
+"Sagesser, Mlle. Emma",female,24,0,0,PC 17477,69.3,B35,C,9,NA,NA,1st,lived
+"Salomon, Mr. Abraham L",male,NA,0,0,111163,26,NA,S,1,NA,"New York, NY",1st,lived
+"Schabert, Mrs. Paul (Emma Mock)",female,35,1,0,13236,57.75,C28,C,11,NA,"New York, NY",1st,lived
+"Serepeca, Miss. Augusta",female,30,0,0,113798,31,NA,C,4,NA,NA,1st,lived
+"Seward, Mr. Frederic Kimber",male,34,0,0,113794,26.55,NA,S,7,NA,"New York, NY",1st,lived
+"Shutes, Miss. Elizabeth W",female,40,0,0,PC 17582,153.4625,C125,S,3,NA,"New York, NY / Greenwich CT",1st,lived
+"Silverthorne, Mr. Spencer Victor",male,35,0,0,PC 17475,26.2875,E24,S,5,NA,"St Louis, MO",1st,lived
+"Silvey, Mr. William Baird",male,50,1,0,13507,55.9,E44,S,NA,NA,"Duluth, MN",1st,died
+"Silvey, Mrs. William Baird (Alice Munger)",female,39,1,0,13507,55.9,E44,S,11,NA,"Duluth, MN",1st,lived
+"Simonius-Blumer, Col. Oberst Alfons",male,56,0,0,13213,35.5,A26,C,3,NA,"Basel, Switzerland",1st,lived
+"Sloper, Mr. William Thompson",male,28,0,0,113788,35.5,A6,S,7,NA,"New Britain, CT",1st,lived
+"Smart, Mr. John Montgomery",male,56,0,0,113792,26.55,NA,S,NA,NA,"New York, NY",1st,died
+"Smith, Mr. James Clinch",male,56,0,0,17764,30.6958,A7,C,NA,NA,"St James, Long Island, NY",1st,died
+"Smith, Mr. Lucien Philip",male,24,1,0,13695,60,C31,S,NA,NA,"Huntington, WV",1st,died
+"Smith, Mr. Richard William",male,NA,0,0,113056,26,A19,S,NA,NA,"Streatham, Surrey",1st,died
+"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18,1,0,13695,60,C31,S,6,NA,"Huntington, WV",1st,lived
+"Snyder, Mr. John Pillsbury",male,24,1,0,21228,82.2667,B45,S,7,NA,"Minneapolis, MN",1st,lived
+"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23,1,0,21228,82.2667,B45,S,7,NA,"Minneapolis, MN",1st,lived
+"Spedden, Master. Robert Douglas",male,6,0,2,16966,134.5,E34,C,3,NA,"Tuxedo Park, NY",1st,lived
+"Spedden, Mr. Frederic Oakley",male,45,1,1,16966,134.5,E34,C,3,NA,"Tuxedo Park, NY",1st,lived
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40,1,1,16966,134.5,E34,C,3,NA,"Tuxedo Park, NY",1st,lived
+"Spencer, Mr. William Augustus",male,57,1,0,PC 17569,146.5208,B78,C,NA,NA,"Paris, France",1st,died
+"Spencer, Mrs. William Augustus (Marie Eugenie)",female,NA,1,0,PC 17569,146.5208,B78,C,6,NA,"Paris, France",1st,lived
+"Stahelin-Maeglin, Dr. Max",male,32,0,0,13214,30.5,B50,C,3,NA,"Basel, Switzerland",1st,lived
+"Stead, Mr. William Thomas",male,62,0,0,113514,26.55,C87,S,NA,NA,"Wimbledon Park, London / Hayling Island, Hants",1st,died
+"Stengel, Mr. Charles Emil Henry",male,54,1,0,11778,55.4417,C116,C,1,NA,"Newark, NJ",1st,lived
+"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43,1,0,11778,55.4417,C116,C,5,NA,"Newark, NJ",1st,lived
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52,1,0,36947,78.2667,D20,C,4,NA,"Haverford, PA",1st,lived
+"Stewart, Mr. Albert A",male,NA,0,0,PC 17605,27.7208,NA,C,NA,NA,"Gallipolis, Ohio / ? Paris / New York",1st,died
+"Stone, Mrs. George Nelson (Martha Evelyn)",female,62,0,0,113572,80,B28,NA,6,NA,"Cincinatti, OH",1st,lived
+"Straus, Mr. Isidor",male,67,1,0,PC 17483,221.7792,C55 C57,S,NA,96,"New York, NY",1st,died
+"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63,1,0,PC 17483,221.7792,C55 C57,S,NA,NA,"New York, NY",1st,died
+"Sutton, Mr. Frederick",male,61,0,0,36963,32.3208,D50,S,NA,46,"Haddenfield, NJ",1st,died
+"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48,0,0,17466,25.9292,D17,S,8,NA,"Brooklyn, NY",1st,lived
+"Taussig, Miss. Ruth",female,18,0,2,110413,79.65,E68,S,8,NA,"New York, NY",1st,lived
+"Taussig, Mr. Emil",male,52,1,1,110413,79.65,E67,S,NA,NA,"New York, NY",1st,died
+"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39,1,1,110413,79.65,E67,S,8,NA,"New York, NY",1st,lived
+"Taylor, Mr. Elmer Zebley",male,48,1,0,19996,52,C126,S,5 7,NA,"London /  East Orange, NJ",1st,lived
+"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,NA,1,0,19996,52,C126,S,5 7,NA,"London /  East Orange, NJ",1st,lived
+"Thayer, Mr. John Borland",male,49,1,1,17421,110.8833,C68,C,NA,NA,"Haverford, PA",1st,died
+"Thayer, Mr. John Borland Jr",male,17,0,2,17421,110.8833,C70,C,B,NA,"Haverford, PA",1st,lived
+"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39,1,1,17421,110.8833,C68,C,4,NA,"Haverford, PA",1st,lived
+"Thorne, Mrs. Gertrude Maybelle",female,NA,0,0,PC 17585,79.2,NA,C,D,NA,"New York, NY",1st,lived
+"Tucker, Mr. Gilbert Milligan Jr",male,31,0,0,2543,28.5375,C53,C,7,NA,"Albany, NY",1st,lived
+"Uruchurtu, Don. Manuel E",male,40,0,0,PC 17601,27.7208,NA,C,NA,NA,"Mexico City, Mexico",1st,died
+"Van der hoef, Mr. Wyckoff",male,61,0,0,111240,33.5,B19,S,NA,245,"Brooklyn, NY",1st,died
+"Walker, Mr. William Anderson",male,47,0,0,36967,34.0208,D46,S,NA,NA,"East Orange, NJ",1st,died
+"Ward, Miss. Anna",female,35,0,0,PC 17755,512.3292,NA,C,3,NA,NA,1st,lived
+"Warren, Mr. Frank Manley",male,64,1,0,110813,75.25,D37,C,NA,NA,"Portland, OR",1st,died
+"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60,1,0,110813,75.25,D37,C,5,NA,"Portland, OR",1st,lived
+"Weir, Col. John",male,60,0,0,113800,26.55,NA,S,NA,NA,"England Salt Lake City, Utah",1st,died
+"White, Mr. Percival Wayland",male,54,0,1,35281,77.2875,D26,S,NA,NA,"Brunswick, ME",1st,died
+"White, Mr. Richard Frasar",male,21,0,1,35281,77.2875,D26,S,NA,169,"Brunswick, ME",1st,died
+"White, Mrs. John Stuart (Ella Holmes)",female,55,0,0,PC 17760,135.6333,C32,C,8,NA,"New York, NY / Briarcliff Manor NY",1st,lived
+"Wick, Miss. Mary Natalie",female,31,0,2,36928,164.8667,C7,S,8,NA,"Youngstown, OH",1st,lived
+"Wick, Mr. George Dennick",male,57,1,1,36928,164.8667,NA,S,NA,NA,"Youngstown, OH",1st,died
+"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45,1,1,36928,164.8667,NA,S,8,NA,"Youngstown, OH",1st,lived
+"Widener, Mr. George Dunton",male,50,1,1,113503,211.5,C80,C,NA,NA,"Elkins Park, PA",1st,died
+"Widener, Mr. Harry Elkins",male,27,0,2,113503,211.5,C82,C,NA,NA,"Elkins Park, PA",1st,died
+"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50,1,1,113503,211.5,C80,C,4,NA,"Elkins Park, PA",1st,lived
+"Willard, Miss. Constance",female,21,0,0,113795,26.55,NA,S,8 10,NA,"Duluth, MN",1st,lived
+"Williams, Mr. Charles Duane",male,51,0,1,PC 17597,61.3792,NA,C,NA,NA,"Geneva, Switzerland / Radnor, PA",1st,died
+"Williams, Mr. Richard Norris II",male,21,0,1,PC 17597,61.3792,NA,C,A,NA,"Geneva, Switzerland / Radnor, PA",1st,lived
+"Williams-Lambert, Mr. Fletcher Fellows",male,NA,0,0,113510,35,C128,S,NA,NA,"London, England",1st,died
+"Wilson, Miss. Helen Alice",female,31,0,0,16966,134.5,E39 E41,C,3,NA,NA,1st,lived
+"Woolner, Mr. Hugh",male,NA,0,0,19947,35.5,C52,S,D,NA,"London, England",1st,lived
+"Wright, Mr. George",male,62,0,0,113807,26.55,NA,S,NA,NA,"Halifax, NS",1st,died
+"Young, Miss. Marie Grice",female,36,0,0,PC 17760,135.6333,C32,C,8,NA,"New York, NY / Washington, DC",1st,lived
+"Abelson, Mr. Samuel",male,30,1,0,P/PP 3381,24,NA,C,NA,NA,"Russia New York, NY",2nd,died
+"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28,1,0,P/PP 3381,24,NA,C,10,NA,"Russia New York, NY",2nd,lived
+"Aldworth, Mr. Charles Augustus",male,30,0,0,248744,13,NA,S,NA,NA,"Bryn Mawr, PA, USA",2nd,died
+"Andrew, Mr. Edgardo Samuel",male,18,0,0,231945,11.5,NA,S,NA,NA,"Buenos Aires, Argentina / New Jersey, NJ",2nd,died
+"Andrew, Mr. Frank Thomas",male,25,0,0,C.A. 34050,10.5,NA,S,NA,NA,"Cornwall, England Houghton, MI",2nd,died
+"Angle, Mr. William A",male,34,1,0,226875,26,NA,S,NA,NA,"Warwick, England",2nd,died
+"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36,1,0,226875,26,NA,S,11,NA,"Warwick, England",2nd,lived
+"Ashby, Mr. John",male,57,0,0,244346,13,NA,S,NA,NA,"West Hoboken, NJ",2nd,died
+"Bailey, Mr. Percy Andrew",male,18,0,0,29108,11.5,NA,S,NA,NA,"Penzance, Cornwall / Akron, OH",2nd,died
+"Baimbrigge, Mr. Charles Robert",male,23,0,0,C.A. 31030,10.5,NA,S,NA,NA,Guernsey,2nd,died
+"Ball, Mrs. (Ada E Hall)",female,36,0,0,28551,13,D,S,10,NA,"Bristol, Avon / Jacksonville, FL",2nd,lived
+"Banfield, Mr. Frederick James",male,28,0,0,C.A./SOTON 34068,10.5,NA,S,NA,NA,"Plymouth, Dorset / Houghton, MI",2nd,died
+"Bateman, Rev. Robert James",male,51,0,0,S.O.P. 1166,12.525,NA,S,NA,174,"Jacksonville, FL",2nd,died
+"Beane, Mr. Edward",male,32,1,0,2908,26,NA,S,13,NA,"Norwich / New York, NY",2nd,lived
+"Beane, Mrs. Edward (Ethel Clarke)",female,19,1,0,2908,26,NA,S,13,NA,"Norwich / New York, NY",2nd,lived
+"Beauchamp, Mr. Henry James",male,28,0,0,244358,26,NA,S,NA,NA,England,2nd,died
+"Becker, Master. Richard F",male,1,2,1,230136,39,F4,S,11,NA,"Guntur, India / Benton Harbour, MI",2nd,lived
+"Becker, Miss. Marion Louise",female,4,2,1,230136,39,F4,S,11,NA,"Guntur, India / Benton Harbour, MI",2nd,lived
+"Becker, Miss. Ruth Elizabeth",female,12,2,1,230136,39,F4,S,13,NA,"Guntur, India / Benton Harbour, MI",2nd,lived
+"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36,0,3,230136,39,F4,S,11,NA,"Guntur, India / Benton Harbour, MI",2nd,lived
+"Beesley, Mr. Lawrence",male,34,0,0,248698,13,D56,S,13,NA,London,2nd,lived
+"Bentham, Miss. Lilian W",female,19,0,0,28404,13,NA,S,12,NA,"Rochester, NY",2nd,lived
+"Berriman, Mr. William John",male,23,0,0,28425,13,NA,S,NA,NA,"St Ives, Cornwall / Calumet, MI",2nd,died
+"Botsford, Mr. William Hull",male,26,0,0,237670,13,NA,S,NA,NA,"Elmira, NY / Orange, NJ",2nd,died
+"Bowenur, Mr. Solomon",male,42,0,0,211535,13,NA,S,NA,NA,London,2nd,died
+"Bracken, Mr. James H",male,27,0,0,220367,13,NA,S,NA,NA,"Lake Arthur, Chavez County, NM",2nd,died
+"Brown, Miss. Amelia ""Mildred""",female,24,0,0,248733,13,F33,S,11,NA,"London / Montreal, PQ",2nd,lived
+"Brown, Miss. Edith Eileen",female,15,0,2,29750,39,NA,S,14,NA,"Cape Town, South Africa / Seattle, WA",2nd,lived
+"Brown, Mr. Thomas William Solomon",male,60,1,1,29750,39,NA,S,NA,NA,"Cape Town, South Africa / Seattle, WA",2nd,died
+"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40,1,1,29750,39,NA,S,14,NA,"Cape Town, South Africa / Seattle, WA",2nd,lived
+"Bryhl, Miss. Dagmar Jenny Ingeborg",female,20,1,0,236853,26,NA,S,12,NA,"Skara, Sweden / Rockford, IL",2nd,lived
+"Bryhl, Mr. Kurt Arnold Gottfrid",male,25,1,0,236853,26,NA,S,NA,NA,"Skara, Sweden / Rockford, IL",2nd,died
+"Buss, Miss. Kate",female,36,0,0,27849,13,NA,S,9,NA,"Sittingbourne, England / San Diego, CA",2nd,lived
+"Butler, Mr. Reginald Fenton",male,25,0,0,234686,13,NA,S,NA,97,"Southsea, Hants",2nd,died
+"Byles, Rev. Thomas Roussel Davids",male,42,0,0,244310,13,NA,S,NA,NA,London,2nd,died
+"Bystrom, Mrs. (Karolina)",female,42,0,0,236852,13,NA,S,NA,NA,"New York, NY",2nd,lived
+"Caldwell, Master. Alden Gates",male,0.8333,0,2,248738,29,NA,S,13,NA,"Bangkok, Thailand / Roseville, IL",2nd,lived
+"Caldwell, Mr. Albert Francis",male,26,1,1,248738,29,NA,S,13,NA,"Bangkok, Thailand / Roseville, IL",2nd,lived
+"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22,1,1,248738,29,NA,S,13,NA,"Bangkok, Thailand / Roseville, IL",2nd,lived
+"Cameron, Miss. Clear Annie",female,35,0,0,F.C.C. 13528,21,NA,S,14,NA,"Mamaroneck, NY",2nd,lived
+"Campbell, Mr. William",male,NA,0,0,239853,0,NA,S,NA,NA,Belfast,2nd,died
+"Carbines, Mr. William",male,19,0,0,28424,13,NA,S,NA,18,"St Ives, Cornwall / Calumet, MI",2nd,died
+"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44,1,0,244252,26,NA,S,NA,NA,London,2nd,died
+"Carter, Rev. Ernest Courtenay",male,54,1,0,244252,26,NA,S,NA,NA,London,2nd,died
+"Chapman, Mr. Charles Henry",male,52,0,0,248731,13.5,NA,S,NA,130,"Bronx, NY",2nd,died
+"Chapman, Mr. John Henry",male,37,1,0,SC/AH 29037,26,NA,S,NA,17,"Cornwall / Spokane, WA",2nd,died
+"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29,1,0,SC/AH 29037,26,NA,S,NA,NA,"Cornwall / Spokane, WA",2nd,died
+"Christy, Miss. Julie Rachel",female,25,1,1,237789,30,NA,S,12,NA,London,2nd,lived
+"Christy, Mrs. (Alice Frances)",female,45,0,2,237789,30,NA,S,12,NA,London,2nd,lived
+"Clarke, Mr. Charles Valentine",male,29,1,0,2003,26,NA,S,NA,NA,"England / San Francisco, CA",2nd,died
+"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28,1,0,2003,26,NA,S,14,NA,"England / San Francisco, CA",2nd,lived
+"Coleridge, Mr. Reginald Charles",male,29,0,0,W./C. 14263,10.5,NA,S,NA,NA,"Hartford, Huntingdonshire",2nd,died
+"Collander, Mr. Erik Gustaf",male,28,0,0,248740,13,NA,S,NA,NA,"Helsinki, Finland Ashtabula, Ohio",2nd,died
+"Collett, Mr. Sidney C Stuart",male,24,0,0,28034,10.5,NA,S,9,NA,"London / Fort Byron, NY",2nd,lived
+"Collyer, Miss. Marjorie ""Lottie""",female,8,0,2,C.A. 31921,26.25,NA,S,14,NA,"Bishopstoke, Hants / Fayette Valley, ID",2nd,lived
+"Collyer, Mr. Harvey",male,31,1,1,C.A. 31921,26.25,NA,S,NA,NA,"Bishopstoke, Hants / Fayette Valley, ID",2nd,died
+"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31,1,1,C.A. 31921,26.25,NA,S,14,NA,"Bishopstoke, Hants / Fayette Valley, ID",2nd,lived
+"Cook, Mrs. (Selena Rogers)",female,22,0,0,W./C. 14266,10.5,F33,S,14,NA,Pennsylvania,2nd,lived
+"Corbett, Mrs. Walter H (Irene Colvin)",female,30,0,0,237249,13,NA,S,NA,NA,"Provo, UT",2nd,died
+"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,NA,0,0,F.C.C. 13534,21,NA,S,NA,NA,"Upper Burma, India Pittsburgh, PA",2nd,died
+"Cotterill, Mr. Henry ""Harry""",male,21,0,0,29107,11.5,NA,S,NA,NA,"Penzance, Cornwall / Akron, OH",2nd,died
+"Cunningham, Mr. Alfred Fleming",male,NA,0,0,239853,0,NA,S,NA,NA,Belfast,2nd,died
+"Davies, Master. John Morgan Jr",male,8,1,1,C.A. 33112,36.75,NA,S,14,NA,"St Ives, Cornwall / Hancock, MI",2nd,lived
+"Davies, Mr. Charles Henry",male,18,0,0,S.O.C. 14879,73.5,NA,S,NA,NA,"Lyndhurst, England",2nd,died
+"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White)",female,48,0,2,C.A. 33112,36.75,NA,S,14,NA,"St Ives, Cornwall / Hancock, MI",2nd,lived
+"Davis, Miss. Mary",female,28,0,0,237668,13,NA,S,13,NA,"London / Staten Island, NY",2nd,lived
+"de Brito, Mr. Jose Joaquim",male,32,0,0,244360,13,NA,S,NA,NA,"Portugal / Sau Paulo, Brazil",2nd,died
+"Deacon, Mr. Percy William",male,17,0,0,S.O.C. 14879,73.5,NA,S,NA,NA,NA,2nd,died
+"del Carlo, Mr. Sebastiano",male,29,1,0,SC/PARIS 2167,27.7208,NA,C,NA,295,"Lucca, Italy / California",2nd,died
+"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24,1,0,SC/PARIS 2167,27.7208,NA,C,12,NA,"Lucca, Italy / California",2nd,lived
+"Denbury, Mr. Herbert",male,25,0,0,C.A. 31029,31.5,NA,S,NA,NA,"Guernsey / Elizabeth, NJ",2nd,died
+"Dibden, Mr. William",male,18,0,0,S.O.C. 14879,73.5,NA,S,NA,NA,"New Forest, England",2nd,died
+"Doling, Miss. Elsie",female,18,0,1,231919,23,NA,S,NA,NA,Southampton,2nd,lived
+"Doling, Mrs. John T (Ada Julia Bone)",female,34,0,1,231919,23,NA,S,NA,NA,Southampton,2nd,lived
+"Downton, Mr. William James",male,54,0,0,28403,26,NA,S,NA,NA,"Holley, NY",2nd,died
+"Drew, Master. Marshall Brines",male,8,0,2,28220,32.5,NA,S,10,NA,"Greenport, NY",2nd,lived
+"Drew, Mr. James Vivian",male,42,1,1,28220,32.5,NA,S,NA,NA,"Greenport, NY",2nd,died
+"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34,1,1,28220,32.5,NA,S,10,NA,"Greenport, NY",2nd,lived
+"Duran y More, Miss. Asuncion",female,27,1,0,SC/PARIS 2149,13.8583,NA,C,12,NA,"Barcelona, Spain / Havana, Cuba",2nd,lived
+"Duran y More, Miss. Florentina",female,30,1,0,SC/PARIS 2148,13.8583,NA,C,12,NA,"Barcelona, Spain / Havana, Cuba",2nd,lived
+"Eitemiller, Mr. George Floyd",male,23,0,0,29751,13,NA,S,NA,NA,"England / Detroit, MI",2nd,died
+"Enander, Mr. Ingvar",male,21,0,0,236854,13,NA,S,NA,NA,"Goteborg, Sweden / Rockford, IL",2nd,died
+"Fahlstrom, Mr. Arne Jonas",male,18,0,0,236171,13,NA,S,NA,NA,"Oslo, Norway Bayonne, NJ",2nd,died
+"Faunthorpe, Mr. Harry",male,40,1,0,2926,26,NA,S,NA,286,"England / Philadelphia, PA",2nd,died
+"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29,1,0,2926,26,NA,S,16,NA,NA,2nd,lived
+"Fillbrook, Mr. Joseph Charles",male,18,0,0,C.A. 15185,10.5,NA,S,NA,NA,"Cornwall / Houghton, MI",2nd,died
+"Fox, Mr. Stanley Hubert",male,36,0,0,229236,13,NA,S,NA,236,"Rochester, NY",2nd,died
+"Frost, Mr. Anthony Wood ""Archie""",male,NA,0,0,239854,0,NA,S,NA,NA,Belfast,2nd,died
+"Funk, Miss. Annie Clemmer",female,38,0,0,237671,13,NA,S,NA,NA,"Janjgir, India / Pennsylvania",2nd,died
+"Fynney, Mr. Joseph J",male,35,0,0,239865,26,NA,S,NA,322,"Liverpool / Montreal, PQ",2nd,died
+"Gale, Mr. Harry",male,38,1,0,28664,21,NA,S,NA,NA,"Cornwall / Clear Creek, CO",2nd,died
+"Gale, Mr. Shadrach",male,34,1,0,28664,21,NA,S,NA,NA,"Cornwall / Clear Creek, CO",2nd,died
+"Garside, Miss. Ethel",female,34,0,0,243880,13,NA,S,12,NA,"Brooklyn, NY",2nd,lived
+"Gaskell, Mr. Alfred",male,16,0,0,239865,26,NA,S,NA,NA,"Liverpool / Montreal, PQ",2nd,died
+"Gavey, Mr. Lawrence",male,26,0,0,31028,10.5,NA,S,NA,NA,"Guernsey / Elizabeth, NJ",2nd,died
+"Gilbert, Mr. William",male,47,0,0,C.A. 30769,10.5,NA,S,NA,NA,Cornwall,2nd,died
+"Giles, Mr. Edgar",male,21,1,0,28133,11.5,NA,S,NA,NA,"Cornwall / Camden, NJ",2nd,died
+"Giles, Mr. Frederick Edward",male,21,1,0,28134,11.5,NA,S,NA,NA,"Cornwall / Camden, NJ",2nd,died
+"Giles, Mr. Ralph",male,24,0,0,248726,13.5,NA,S,NA,297,"West Kensington, London",2nd,died
+"Gill, Mr. John William",male,24,0,0,233866,13,NA,S,NA,155,"Clevedon, England",2nd,died
+"Gillespie, Mr. William Henry",male,34,0,0,12233,13,NA,S,NA,NA,"Vancouver, BC",2nd,died
+"Givard, Mr. Hans Kristensen",male,30,0,0,250646,13,NA,S,NA,305,NA,2nd,died
+"Greenberg, Mr. Samuel",male,52,0,0,250647,13,NA,S,NA,19,"Bronx, NY",2nd,died
+"Hale, Mr. Reginald",male,30,0,0,250653,13,NA,S,NA,75,"Auburn, NY",2nd,died
+"Hamalainen, Master. Viljo",male,0.6667,1,1,250649,14.5,NA,S,4,NA,"Detroit, MI",2nd,lived
+"Hamalainen, Mrs. William (Anna)",female,24,0,2,250649,14.5,NA,S,4,NA,"Detroit, MI",2nd,lived
+"Harbeck, Mr. William H",male,44,0,0,248746,13,NA,S,NA,35,"Seattle, WA / Toledo, OH",2nd,died
+"Harper, Miss. Annie Jessie ""Nina""",female,6,0,1,248727,33,NA,S,11,NA,"Denmark Hill, Surrey / Chicago",2nd,lived
+"Harper, Rev. John",male,28,0,1,248727,33,NA,S,NA,NA,"Denmark Hill, Surrey / Chicago",2nd,died
+"Harris, Mr. George",male,62,0,0,S.W./PP 752,10.5,NA,S,15,NA,London,2nd,lived
+"Harris, Mr. Walter",male,30,0,0,W/C 14208,10.5,NA,S,NA,NA,"Walthamstow, England",2nd,died
+"Hart, Miss. Eva Miriam",female,7,0,2,F.C.C. 13529,26.25,NA,S,14,NA,"Ilford, Essex / Winnipeg, MB",2nd,lived
+"Hart, Mr. Benjamin",male,43,1,1,F.C.C. 13529,26.25,NA,S,NA,NA,"Ilford, Essex / Winnipeg, MB",2nd,died
+"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45,1,1,F.C.C. 13529,26.25,NA,S,14,NA,"Ilford, Essex / Winnipeg, MB",2nd,lived
+"Herman, Miss. Alice",female,24,1,2,220845,65,NA,S,9,NA,"Somerset / Bernardsville, NJ",2nd,lived
+"Herman, Miss. Kate",female,24,1,2,220845,65,NA,S,9,NA,"Somerset / Bernardsville, NJ",2nd,lived
+"Herman, Mr. Samuel",male,49,1,2,220845,65,NA,S,NA,NA,"Somerset / Bernardsville, NJ",2nd,died
+"Herman, Mrs. Samuel (Jane Laver)",female,48,1,2,220845,65,NA,S,9,NA,"Somerset / Bernardsville, NJ",2nd,lived
+"Hewlett, Mrs. (Mary D Kingcome)",female,55,0,0,248706,16,NA,S,13,NA,"India / Rapid City, SD",2nd,lived
+"Hickman, Mr. Leonard Mark",male,24,2,0,S.O.C. 14879,73.5,NA,S,NA,NA,"West Hampstead, London / Neepawa, MB",2nd,died
+"Hickman, Mr. Lewis",male,32,2,0,S.O.C. 14879,73.5,NA,S,NA,256,"West Hampstead, London / Neepawa, MB",2nd,died
+"Hickman, Mr. Stanley George",male,21,2,0,S.O.C. 14879,73.5,NA,S,NA,NA,"West Hampstead, London / Neepawa, MB",2nd,died
+"Hiltunen, Miss. Marta",female,18,1,1,250650,13,NA,S,NA,NA,"Kontiolahti, Finland / Detroit, MI",2nd,died
+"Hocking, Miss. Ellen ""Nellie""",female,20,2,1,29105,23,NA,S,4,NA,"Cornwall / Akron, OH",2nd,lived
+"Hocking, Mr. Richard George",male,23,2,1,29104,11.5,NA,S,NA,NA,"Cornwall / Akron, OH",2nd,died
+"Hocking, Mr. Samuel James Metcalfe",male,36,0,0,242963,13,NA,S,NA,NA,"Devonport, England",2nd,died
+"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54,1,3,29105,23,NA,S,4,NA,"Cornwall / Akron, OH",2nd,lived
+"Hodges, Mr. Henry Price",male,50,0,0,250643,13,NA,S,NA,149,Southampton,2nd,died
+"Hold, Mr. Stephen",male,44,1,0,26707,26,NA,S,NA,NA,"England / Sacramento, CA",2nd,died
+"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29,1,0,26707,26,NA,S,10,NA,"England / Sacramento, CA",2nd,lived
+"Hood, Mr. Ambrose Jr",male,21,0,0,S.O.C. 14879,73.5,NA,S,NA,NA,"New Forest, England",2nd,died
+"Hosono, Mr. Masabumi",male,42,0,0,237798,13,NA,S,10,NA,"Tokyo, Japan",2nd,lived
+"Howard, Mr. Benjamin",male,63,1,0,24065,26,NA,S,NA,NA,"Swindon, England",2nd,died
+"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60,1,0,24065,26,NA,S,NA,NA,"Swindon, England",2nd,died
+"Hunt, Mr. George Henry",male,33,0,0,SCO/W 1585,12.275,NA,S,NA,NA,"Philadelphia, PA",2nd,died
+"Ilett, Miss. Bertha",female,17,0,0,SO/C 14885,10.5,NA,S,NA,NA,Guernsey,2nd,lived
+"Jacobsohn, Mr. Sidney Samuel",male,42,1,0,243847,27,NA,S,NA,NA,London,2nd,died
+"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24,2,1,243847,27,NA,S,12,NA,London,2nd,lived
+"Jarvis, Mr. John Denzil",male,47,0,0,237565,15,NA,S,NA,NA,"North Evington, England",2nd,died
+"Jefferys, Mr. Clifford Thomas",male,24,2,0,C.A. 31029,31.5,NA,S,NA,NA,"Guernsey / Elizabeth, NJ",2nd,died
+"Jefferys, Mr. Ernest Wilfred",male,22,2,0,C.A. 31029,31.5,NA,S,NA,NA,"Guernsey / Elizabeth, NJ",2nd,died
+"Jenkin, Mr. Stephen Curnow",male,32,0,0,C.A. 33111,10.5,NA,S,NA,NA,"St Ives, Cornwall / Houghton, MI",2nd,died
+"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23,0,0,SC/AH Basle 541,13.7917,D,C,11,NA,"New York, NY",2nd,lived
+"Kantor, Mr. Sinai",male,34,1,0,244367,26,NA,S,NA,283,"Moscow / Bronx, NY",2nd,died
+"Kantor, Mrs. Sinai (Miriam Sternin)",female,24,1,0,244367,26,NA,S,12,NA,"Moscow / Bronx, NY",2nd,lived
+"Karnes, Mrs. J Frank (Claire Bennett)",female,22,0,0,F.C.C. 13534,21,NA,S,NA,NA,"India / Pittsburgh, PA",2nd,died
+"Keane, Miss. Nora A",female,NA,0,0,226593,12.35,E101,Q,10,NA,"Harrisburg, PA",2nd,lived
+"Keane, Mr. Daniel",male,35,0,0,233734,12.35,NA,Q,NA,NA,NA,2nd,died
+"Kelly, Mrs. Florence ""Fannie""",female,45,0,0,223596,13.5,NA,S,9,NA,"London / New York, NY",2nd,lived
+"Kirkland, Rev. Charles Leonard",male,57,0,0,219533,12.35,NA,Q,NA,NA,"Glasgow / Bangor, ME",2nd,died
+"Knight, Mr. Robert J",male,NA,0,0,239855,0,NA,S,NA,NA,Belfast,2nd,died
+"Kvillner, Mr. Johan Henrik Johannesson",male,31,0,0,C.A. 18723,10.5,NA,S,NA,165,"Sweden / Arlington, NJ",2nd,died
+"Lahtinen, Mrs. William (Anna Sylfven)",female,26,1,1,250651,26,NA,S,NA,NA,"Minneapolis, MN",2nd,died
+"Lahtinen, Rev. William",male,30,1,1,250651,26,NA,S,NA,NA,"Minneapolis, MN",2nd,died
+"Lamb, Mr. John Joseph",male,NA,0,0,240261,10.7083,NA,Q,NA,NA,NA,2nd,died
+"Laroche, Miss. Louise",female,1,1,2,SC/Paris 2123,41.5792,NA,C,14,NA,Paris / Haiti,2nd,lived
+"Laroche, Miss. Simonne Marie Anne Andree",female,3,1,2,SC/Paris 2123,41.5792,NA,C,14,NA,Paris / Haiti,2nd,lived
+"Laroche, Mr. Joseph Philippe Lemercier",male,25,1,2,SC/Paris 2123,41.5792,NA,C,NA,NA,Paris / Haiti,2nd,died
+"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22,1,2,SC/Paris 2123,41.5792,NA,C,14,NA,Paris / Haiti,2nd,lived
+"Lehmann, Miss. Bertha",female,17,0,0,SC 1748,12,NA,C,12,NA,"Berne, Switzerland / Central City, IA",2nd,lived
+"Leitch, Miss. Jessie Wills",female,NA,0,0,248727,33,NA,S,11,NA,"London / Chicago, IL",2nd,lived
+"Lemore, Mrs. (Amelia Milley)",female,34,0,0,C.A. 34260,10.5,F33,S,14,NA,"Chicago, IL",2nd,lived
+"Levy, Mr. Rene Jacques",male,36,0,0,SC/Paris 2163,12.875,D,C,NA,NA,"Montreal, PQ",2nd,died
+"Leyson, Mr. Robert William Norman",male,24,0,0,C.A. 29566,10.5,NA,S,NA,108,NA,2nd,died
+"Lingane, Mr. John",male,61,0,0,235509,12.35,NA,Q,NA,NA,NA,2nd,died
+"Louch, Mr. Charles Alexander",male,50,1,0,SC/AH 3085,26,NA,S,NA,121,"Weston-Super-Mare, Somerset",2nd,died
+"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42,1,0,SC/AH 3085,26,NA,S,NA,NA,"Weston-Super-Mare, Somerset",2nd,lived
+"Mack, Mrs. (Mary)",female,57,0,0,S.O./P.P. 3,10.5,E77,S,NA,52,"Southampton / New York, NY",2nd,died
+"Malachard, Mr. Noel",male,NA,0,0,237735,15.0458,D,C,NA,NA,Paris,2nd,died
+"Mallet, Master. Andre",male,1,0,2,S.C./PARIS 2079,37.0042,NA,C,10,NA,"Paris / Montreal, PQ",2nd,lived
+"Mallet, Mr. Albert",male,31,1,1,S.C./PARIS 2079,37.0042,NA,C,NA,NA,"Paris / Montreal, PQ",2nd,died
+"Mallet, Mrs. Albert (Antoinette Magnin)",female,24,1,1,S.C./PARIS 2079,37.0042,NA,C,10,NA,"Paris / Montreal, PQ",2nd,lived
+"Mangiavacchi, Mr. Serafino Emilio",male,NA,0,0,SC/A.3 2861,15.5792,NA,C,NA,NA,"New York, NY",2nd,died
+"Matthews, Mr. William John",male,30,0,0,28228,13,NA,S,NA,NA,"St Austall, Cornwall",2nd,died
+"Maybery, Mr. Frank Hubert",male,40,0,0,239059,16,NA,S,NA,NA,"Weston-Super-Mare / Moose Jaw, SK",2nd,died
+"McCrae, Mr. Arthur Gordon",male,32,0,0,237216,13.5,NA,S,NA,209,"Sydney, Australia",2nd,died
+"McCrie, Mr. James Matthew",male,30,0,0,233478,13,NA,S,NA,NA,"Sarnia, ON",2nd,died
+"McKane, Mr. Peter David",male,46,0,0,28403,26,NA,S,NA,NA,"Rochester, NY",2nd,died
+"Mellinger, Miss. Madeleine Violet",female,13,0,1,250644,19.5,NA,S,14,NA,"England / Bennington, VT",2nd,lived
+"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41,0,1,250644,19.5,NA,S,14,NA,"England / Bennington, VT",2nd,lived
+"Mellors, Mr. William John",male,19,0,0,SW/PP 751,10.5,NA,S,B,NA,"Chelsea, London",2nd,lived
+"Meyer, Mr. August",male,39,0,0,248723,13,NA,S,NA,NA,"Harrow-on-the-Hill, Middlesex",2nd,died
+"Milling, Mr. Jacob Christian",male,48,0,0,234360,13,NA,S,NA,271,"Copenhagen, Denmark",2nd,died
+"Mitchell, Mr. Henry Michael",male,70,0,0,C.A. 24580,10.5,NA,S,NA,NA,"Guernsey / Montclair, NJ and/or Toledo, Ohio",2nd,died
+"Montvila, Rev. Juozas",male,27,0,0,211536,13,NA,S,NA,NA,"Worcester, MA",2nd,died
+"Moraweck, Dr. Ernest",male,54,0,0,29011,14,NA,S,NA,NA,"Frankfort, KY",2nd,died
+"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39,0,0,250655,26,NA,S,NA,NA,NA,2nd,died
+"Mudd, Mr. Thomas Charles",male,16,0,0,S.O./P.P. 3,10.5,NA,S,NA,NA,"Halesworth, England",2nd,died
+"Myles, Mr. Thomas Francis",male,62,0,0,240276,9.6875,NA,Q,NA,NA,"Cambridge, MA",2nd,died
+"Nasser, Mr. Nicholas",male,32.5,1,0,237736,30.0708,NA,C,NA,43,"New York, NY",2nd,died
+"Nasser, Mrs. Nicholas (Adele Achem)",female,14,1,0,237736,30.0708,NA,C,NA,NA,"New York, NY",2nd,lived
+"Navratil, Master. Edmond Roger",male,2,1,1,230080,26,F2,S,D,NA,"Nice, France",2nd,lived
+"Navratil, Master. Michel M",male,3,1,1,230080,26,F2,S,D,NA,"Nice, France",2nd,lived
+"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,26,F2,S,NA,15,"Nice, France",2nd,died
+"Nesson, Mr. Israel",male,26,0,0,244368,13,F2,S,NA,NA,"Boston, MA",2nd,died
+"Nicholls, Mr. Joseph Charles",male,19,1,1,C.A. 33112,36.75,NA,S,NA,101,"Cornwall / Hancock, MI",2nd,died
+"Norman, Mr. Robert Douglas",male,28,0,0,218629,13.5,NA,S,NA,287,Glasgow,2nd,died
+"Nourney, Mr. Alfred (""Baron von Drachstedt"")",male,20,0,0,SC/PARIS 2166,13.8625,D38,C,7,NA,"Cologne, Germany",2nd,lived
+"Nye, Mrs. (Elizabeth Ramell)",female,29,0,0,C.A. 29395,10.5,F33,S,11,NA,"Folkstone, Kent / New York, NY",2nd,lived
+"Otter, Mr. Richard",male,39,0,0,28213,13,NA,S,NA,NA,"Middleburg Heights, OH",2nd,died
+"Oxenham, Mr. Percy Thomas",male,22,0,0,W./C. 14260,10.5,NA,S,13,NA,"Pondersend, England / New Durham, NJ",2nd,lived
+"Padro y Manent, Mr. Julian",male,NA,0,0,SC/PARIS 2146,13.8625,NA,C,9,NA,"Spain / Havana, Cuba",2nd,lived
+"Pain, Dr. Alfred",male,23,0,0,244278,10.5,NA,S,NA,NA,"Hamilton, ON",2nd,died
+"Pallas y Castello, Mr. Emilio",male,29,0,0,SC/PARIS 2147,13.8583,NA,C,9,NA,"Spain / Havana, Cuba",2nd,lived
+"Parker, Mr. Clifford Richard",male,28,0,0,SC 14888,10.5,NA,S,NA,NA,"St Andrews, Guernsey",2nd,died
+"Parkes, Mr. Francis ""Frank""",male,NA,0,0,239853,0,NA,S,NA,NA,Belfast,2nd,died
+"Parrish, Mrs. (Lutie Davis)",female,50,0,1,230433,26,NA,S,12,NA,"Woodford County, KY",2nd,lived
+"Pengelly, Mr. Frederick William",male,19,0,0,28665,10.5,NA,S,NA,NA,"Gunnislake, England / Butte, MT",2nd,died
+"Pernot, Mr. Rene",male,NA,0,0,SC/PARIS 2131,15.05,NA,C,NA,NA,NA,2nd,died
+"Peruschitz, Rev. Joseph Maria",male,41,0,0,237393,13,NA,S,NA,NA,NA,2nd,died
+"Phillips, Miss. Alice Frances Louisa",female,21,0,1,S.O./P.P. 2,21,NA,S,12,NA,"Ilfracombe, Devon",2nd,lived
+"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19,0,0,250655,26,NA,S,11,NA,"Worcester, England",2nd,lived
+"Phillips, Mr. Escott Robert",male,43,0,1,S.O./P.P. 2,21,NA,S,NA,NA,"Ilfracombe, Devon",2nd,died
+"Pinsky, Mrs. (Rosa)",female,32,0,0,234604,13,NA,S,9,NA,Russia,2nd,lived
+"Ponesell, Mr. Martin",male,34,0,0,250647,13,NA,S,NA,NA,"Denmark / New York, NY",2nd,died
+"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30,0,0,C.A. 34644,12.7375,NA,C,14,NA,"Milford, NH",2nd,lived
+"Pulbaum, Mr. Franz",male,27,0,0,SC/PARIS 2168,15.0333,NA,C,NA,NA,Paris,2nd,died
+"Quick, Miss. Phyllis May",female,2,1,1,26360,26,NA,S,11,NA,"Plymouth, Devon / Detroit, MI",2nd,lived
+"Quick, Miss. Winifred Vera",female,8,1,1,26360,26,NA,S,11,NA,"Plymouth, Devon / Detroit, MI",2nd,lived
+"Quick, Mrs. Frederick Charles (Jane Richards)",female,33,0,2,26360,26,NA,S,11,NA,"Plymouth, Devon / Detroit, MI",2nd,lived
+"Reeves, Mr. David",male,36,0,0,C.A. 17248,10.5,NA,S,NA,NA,"Brighton, Sussex",2nd,died
+"Renouf, Mr. Peter Henry",male,34,1,0,31027,21,NA,S,12,NA,"Elizabeth, NJ",2nd,died
+"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30,3,0,31027,21,NA,S,NA,NA,"Elizabeth, NJ",2nd,lived
+"Reynaldo, Ms. Encarnacion",female,28,0,0,230434,13,NA,S,9,NA,Spain,2nd,lived
+"Richard, Mr. Emile",male,23,0,0,SC/PARIS 2133,15.0458,NA,C,NA,NA,"Paris / Montreal, PQ",2nd,died
+"Richards, Master. George Sibley",male,0.8333,1,1,29106,18.75,NA,S,4,NA,"Cornwall / Akron, OH",2nd,lived
+"Richards, Master. William Rowe",male,3,1,1,29106,18.75,NA,S,4,NA,"Cornwall / Akron, OH",2nd,lived
+"Richards, Mrs. Sidney (Emily Hocking)",female,24,2,3,29106,18.75,NA,S,4,NA,"Cornwall / Akron, OH",2nd,lived
+"Ridsdale, Miss. Lucy",female,50,0,0,W./C. 14258,10.5,NA,S,13,NA,"London, England / Marietta, Ohio and Milwaukee, WI",2nd,lived
+"Rogers, Mr. Reginald Harry",male,19,0,0,28004,10.5,NA,S,NA,NA,NA,2nd,died
+"Rugg, Miss. Emily",female,21,0,0,C.A. 31026,10.5,NA,S,12,NA,"Guernsey / Wilmington, DE",2nd,lived
+"Schmidt, Mr. August",male,26,0,0,248659,13,NA,S,NA,NA,"Newark, NJ",2nd,died
+"Sedgwick, Mr. Charles Frederick Waddington",male,25,0,0,244361,13,NA,S,NA,NA,Liverpool,2nd,died
+"Sharp, Mr. Percival James R",male,27,0,0,244358,26,NA,S,NA,NA,"Hornsey, England",2nd,died
+"Shelley, Mrs. William (Imanita Parrish Hall)",female,25,0,1,230433,26,NA,S,12,NA,"Deer Lodge, MT",2nd,lived
+"Silven, Miss. Lyyli Karoliina",female,18,0,2,250652,13,NA,S,16,NA,"Finland / Minneapolis, MN",2nd,lived
+"Sincock, Miss. Maude",female,20,0,0,C.A. 33112,36.75,NA,S,11,NA,"Cornwall / Hancock, MI",2nd,lived
+"Sinkkonen, Miss. Anna",female,30,0,0,250648,13,NA,S,10,NA,"Finland / Washington, DC",2nd,lived
+"Sjostedt, Mr. Ernst Adolf",male,59,0,0,237442,13.5,NA,S,NA,NA,"Sault St Marie, ON",2nd,died
+"Slayter, Miss. Hilda Mary",female,30,0,0,234818,12.35,NA,Q,13,NA,"Halifax, NS",2nd,lived
+"Slemen, Mr. Richard James",male,35,0,0,28206,10.5,NA,S,NA,NA,Cornwall,2nd,died
+"Smith, Miss. Marion Elsie",female,40,0,0,31418,13,NA,S,9,NA,NA,2nd,lived
+"Sobey, Mr. Samuel James Hayden",male,25,0,0,C.A. 29178,13,NA,S,NA,NA,"Cornwall / Houghton, MI",2nd,died
+"Stanton, Mr. Samuel Ward",male,41,0,0,237734,15.0458,NA,C,NA,NA,"New York, NY",2nd,died
+"Stokes, Mr. Philip Joseph",male,25,0,0,F.C.C. 13540,10.5,NA,S,NA,81,"Catford, Kent / Detroit, MI",2nd,died
+"Swane, Mr. George",male,18.5,0,0,248734,13,F,S,NA,294,NA,2nd,died
+"Sweet, Mr. George Frederick",male,14,0,0,220845,65,NA,S,NA,NA,"Somerset / Bernardsville, NJ",2nd,died
+"Toomey, Miss. Ellen",female,50,0,0,F.C.C. 13531,10.5,NA,S,9,NA,"Indianapolis, IN",2nd,lived
+"Troupiansky, Mr. Moses Aaron",male,23,0,0,233639,13,NA,S,NA,NA,NA,2nd,died
+"Trout, Mrs. William H (Jessie L)",female,28,0,0,240929,12.65,NA,S,NA,NA,"Columbus, OH",2nd,lived
+"Troutt, Miss. Edwina Celia ""Winnie""",female,27,0,0,34218,10.5,E101,S,16,NA,"Bath, England / Massachusetts",2nd,lived
+"Turpin, Mr. William John Robert",male,29,1,0,11668,21,NA,S,NA,NA,"Plymouth, England",2nd,died
+"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27,1,0,11668,21,NA,S,NA,NA,"Plymouth, England",2nd,died
+"Veal, Mr. James",male,40,0,0,28221,13,NA,S,NA,NA,"Barre, Co Washington, VT",2nd,died
+"Walcroft, Miss. Nellie",female,31,0,0,F.C.C. 13528,21,NA,S,14,NA,"Mamaroneck, NY",2nd,lived
+"Ware, Mr. John James",male,30,1,0,CA 31352,21,NA,S,NA,NA,"Bristol, England / New Britain, CT",2nd,died
+"Ware, Mr. William Jeffery",male,23,1,0,28666,10.5,NA,S,NA,NA,NA,2nd,died
+"Ware, Mrs. John James (Florence Louise Long)",female,31,0,0,CA 31352,21,NA,S,10,NA,"Bristol, England / New Britain, CT",2nd,lived
+"Watson, Mr. Ennis Hastings",male,NA,0,0,239856,0,NA,S,NA,NA,Belfast,2nd,died
+"Watt, Miss. Bertha J",female,12,0,0,C.A. 33595,15.75,NA,S,9,NA,"Aberdeen / Portland, OR",2nd,lived
+"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40,0,0,C.A. 33595,15.75,NA,S,9,NA,"Aberdeen / Portland, OR",2nd,lived
+"Webber, Miss. Susan",female,32.5,0,0,27267,13,E101,S,12,NA,"England / Hartford, CT",2nd,lived
+"Weisz, Mr. Leopold",male,27,1,0,228414,26,NA,S,NA,293,"Bromsgrove, England / Montreal, PQ",2nd,died
+"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29,1,0,228414,26,NA,S,10,NA,"Bromsgrove, England / Montreal, PQ",2nd,lived
+"Wells, Master. Ralph Lester",male,2,1,1,29103,23,NA,S,14,NA,"Cornwall / Akron, OH",2nd,lived
+"Wells, Miss. Joan",female,4,1,1,29103,23,NA,S,14,NA,"Cornwall / Akron, OH",2nd,lived
+"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",female,29,0,2,29103,23,NA,S,14,NA,"Cornwall / Akron, OH",2nd,lived
+"West, Miss. Barbara J",female,0.9167,1,2,C.A. 34651,27.75,NA,S,10,NA,"Bournmouth, England",2nd,lived
+"West, Miss. Constance Mirium",female,5,1,2,C.A. 34651,27.75,NA,S,10,NA,"Bournmouth, England",2nd,lived
+"West, Mr. Edwy Arthur",male,36,1,2,C.A. 34651,27.75,NA,S,NA,NA,"Bournmouth, England",2nd,died
+"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33,1,2,C.A. 34651,27.75,NA,S,10,NA,"Bournmouth, England",2nd,lived
+"Wheadon, Mr. Edward H",male,66,0,0,C.A. 24579,10.5,NA,S,NA,NA,"Guernsey, England / Edgewood, RI",2nd,died
+"Wheeler, Mr. Edwin ""Frederick""",male,NA,0,0,SC/PARIS 2159,12.875,NA,S,NA,NA,NA,2nd,died
+"Wilhelms, Mr. Charles",male,31,0,0,244270,13,NA,S,9,NA,"London, England",2nd,lived
+"Williams, Mr. Charles Eugene",male,NA,0,0,244373,13,NA,S,14,NA,"Harrow, England",2nd,lived
+"Wright, Miss. Marion",female,26,0,0,220844,13.5,NA,S,9,NA,"Yoevil, England / Cottage Grove, OR",2nd,lived
+"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24,0,0,248747,13,NA,S,NA,NA,Paris,2nd,died
+"Abbing, Mr. Anthony",male,42,0,0,C.A. 5547,7.55,NA,S,NA,NA,NA,3rd,died
+"Abbott, Master. Eugene Joseph",male,13,0,2,C.A. 2673,20.25,NA,S,NA,NA,"East Providence, RI",3rd,died
+"Abbott, Mr. Rossmore Edward",male,16,1,1,C.A. 2673,20.25,NA,S,NA,190,"East Providence, RI",3rd,died
+"Abbott, Mrs. Stanton (Rosa Hunt)",female,35,1,1,C.A. 2673,20.25,NA,S,A,NA,"East Providence, RI",3rd,lived
+"Abelseth, Miss. Karen Marie",female,16,0,0,348125,7.65,NA,S,16,NA,"Norway Los Angeles, CA",3rd,lived
+"Abelseth, Mr. Olaus Jorgensen",male,25,0,0,348122,7.65,F G63,S,A,NA,"Perkins County, SD",3rd,lived
+"Abrahamsson, Mr. Abraham August Johannes",male,20,0,0,SOTON/O2 3101284,7.925,NA,S,15,NA,"Taalintehdas, Finland Hoboken, NJ",3rd,lived
+"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18,0,0,2657,7.2292,NA,C,C,NA,"Greensburg, PA",3rd,lived
+"Adahl, Mr. Mauritz Nils Martin",male,30,0,0,C 7076,7.25,NA,S,NA,72,"Asarum, Sweden Brooklyn, NY",3rd,died
+"Adams, Mr. John",male,26,0,0,341826,8.05,NA,S,NA,103,"Bournemouth, England",3rd,died
+"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40,1,0,7546,9.475,NA,S,NA,NA,"Sweden Akeley, MN",3rd,died
+"Aks, Master. Philip Frank",male,0.8333,0,1,392091,9.35,NA,S,11,NA,"London, England Norfolk, VA",3rd,lived
+"Aks, Mrs. Sam (Leah Rosen)",female,18,0,1,392091,9.35,NA,S,13,NA,"London, England Norfolk, VA",3rd,lived
+"Albimona, Mr. Nassef Cassem",male,26,0,0,2699,18.7875,NA,C,15,NA,"Syria Fredericksburg, VA",3rd,lived
+"Alexander, Mr. William",male,26,0,0,3474,7.8875,NA,S,NA,NA,"England Albion, NY",3rd,died
+"Alhomaki, Mr. Ilmari Rudolf",male,20,0,0,SOTON/O2 3101287,7.925,NA,S,NA,NA,"Salo, Finland Astoria, OR",3rd,died
+"Ali, Mr. Ahmed",male,24,0,0,SOTON/O.Q. 3101311,7.05,NA,S,NA,NA,NA,3rd,died
+"Ali, Mr. William",male,25,0,0,SOTON/O.Q. 3101312,7.05,NA,S,NA,79,Argentina,3rd,died
+"Allen, Mr. William Henry",male,35,0,0,373450,8.05,NA,S,NA,NA,"Lower Clapton, Middlesex or Erdington, Birmingham",3rd,died
+"Allum, Mr. Owen George",male,18,0,0,2223,8.3,NA,S,NA,259,"Windsor, England New York, NY",3rd,died
+"Andersen, Mr. Albert Karvin",male,32,0,0,C 4001,22.525,NA,S,NA,260,"Bergen, Norway",3rd,died
+"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19,1,0,350046,7.8542,NA,S,16,NA,NA,3rd,lived
+"Andersson, Master. Sigvard Harald Elias",male,4,4,2,347082,31.275,NA,S,NA,NA,"Sweden Winnipeg, MN",3rd,died
+"Andersson, Miss. Ebba Iris Alfrida",female,6,4,2,347082,31.275,NA,S,NA,NA,"Sweden Winnipeg, MN",3rd,died
+"Andersson, Miss. Ellis Anna Maria",female,2,4,2,347082,31.275,NA,S,NA,NA,"Sweden Winnipeg, MN",3rd,died
+"Andersson, Miss. Erna Alexandra",female,17,4,2,3101281,7.925,NA,S,D,NA,"Ruotsinphyhtaa, Finland New York, NY",3rd,lived
+"Andersson, Miss. Ida Augusta Margareta",female,38,4,2,347091,7.775,NA,S,NA,NA,"Vadsbro, Sweden Ministee, MI",3rd,died
+"Andersson, Miss. Ingeborg Constanzia",female,9,4,2,347082,31.275,NA,S,NA,NA,"Sweden Winnipeg, MN",3rd,died
+"Andersson, Miss. Sigrid Elisabeth",female,11,4,2,347082,31.275,NA,S,NA,NA,"Sweden Winnipeg, MN",3rd,died
+"Andersson, Mr. Anders Johan",male,39,1,5,347082,31.275,NA,S,NA,NA,"Sweden Winnipeg, MN",3rd,died
+"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27,0,0,350043,7.7958,NA,S,A,NA,NA,3rd,lived
+"Andersson, Mr. Johan Samuel",male,26,0,0,347075,7.775,NA,S,NA,NA,"Hartford, CT",3rd,died
+"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39,1,5,347082,31.275,NA,S,NA,NA,"Sweden Winnipeg, MN",3rd,died
+"Andreasson, Mr. Paul Edvin",male,20,0,0,347466,7.8542,NA,S,NA,NA,"Sweden Chicago, IL",3rd,died
+"Angheloff, Mr. Minko",male,26,0,0,349202,7.8958,NA,S,NA,NA,"Bulgaria Chicago, IL",3rd,died
+"Arnold-Franchi, Mr. Josef",male,25,1,0,349237,17.8,NA,S,NA,NA,"Altdorf, Switzerland",3rd,died
+"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18,1,0,349237,17.8,NA,S,NA,NA,"Altdorf, Switzerland",3rd,died
+"Aronsson, Mr. Ernst Axel Algot",male,24,0,0,349911,7.775,NA,S,NA,NA,"Sweden Joliet, IL",3rd,died
+"Asim, Mr. Adola",male,35,0,0,SOTON/O.Q. 3101310,7.05,NA,S,NA,NA,NA,3rd,died
+"Asplund, Master. Carl Edgar",male,5,4,2,347077,31.3875,NA,S,NA,NA,"Sweden  Worcester, MA",3rd,died
+"Asplund, Master. Clarence Gustaf Hugo",male,9,4,2,347077,31.3875,NA,S,NA,NA,"Sweden Worcester, MA",3rd,died
+"Asplund, Master. Edvin Rojj Felix",male,3,4,2,347077,31.3875,NA,S,15,NA,"Sweden Worcester, MA",3rd,lived
+"Asplund, Master. Filip Oscar",male,13,4,2,347077,31.3875,NA,S,NA,NA,"Sweden Worcester, MA",3rd,died
+"Asplund, Miss. Lillian Gertrud",female,5,4,2,347077,31.3875,NA,S,15,NA,"Sweden Worcester, MA",3rd,lived
+"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40,1,5,347077,31.3875,NA,S,NA,142,"Sweden  Worcester, MA",3rd,died
+"Asplund, Mr. Johan Charles",male,23,0,0,350054,7.7958,NA,S,13,NA,"Oskarshamn, Sweden Minneapolis, MN",3rd,lived
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38,1,5,347077,31.3875,NA,S,15,NA,"Sweden  Worcester, MA",3rd,lived
+"Assaf Khalil, Mrs. Mariana (""Miriam"")",female,45,0,0,2696,7.225,NA,C,C,NA,"Ottawa, ON",3rd,lived
+"Assaf, Mr. Gerios",male,21,0,0,2692,7.225,NA,C,NA,NA,"Ottawa, ON",3rd,died
+"Assam, Mr. Ali",male,23,0,0,SOTON/O.Q. 3101309,7.05,NA,S,NA,NA,NA,3rd,died
+"Attalah, Miss. Malake",female,17,0,0,2627,14.4583,NA,C,NA,NA,NA,3rd,died
+"Attalah, Mr. Sleiman",male,30,0,0,2694,7.225,NA,C,NA,NA,"Ottawa, ON",3rd,died
+"Augustsson, Mr. Albert",male,23,0,0,347468,7.8542,NA,S,NA,NA,"Krakoryd, Sweden Bloomington, IL",3rd,died
+"Ayoub, Miss. Banoura",female,13,0,0,2687,7.2292,NA,C,C,NA,"Syria Youngstown, OH",3rd,lived
+"Baccos, Mr. Raffull",male,20,0,0,2679,7.225,NA,C,NA,NA,NA,3rd,died
+"Backstrom, Mr. Karl Alfred",male,32,1,0,3101278,15.85,NA,S,D,NA,"Ruotsinphytaa, Finland New York, NY",3rd,died
+"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33,3,0,3101278,15.85,NA,S,NA,NA,"Ruotsinphytaa, Finland New York, NY",3rd,lived
+"Baclini, Miss. Eugenie",female,0.75,2,1,2666,19.2583,NA,C,C,NA,"Syria New York, NY",3rd,lived
+"Baclini, Miss. Helene Barbara",female,0.75,2,1,2666,19.2583,NA,C,C,NA,"Syria New York, NY",3rd,lived
+"Baclini, Miss. Marie Catherine",female,5,2,1,2666,19.2583,NA,C,C,NA,"Syria New York, NY",3rd,lived
+"Baclini, Mrs. Solomon (Latifa Qurban)",female,24,0,3,2666,19.2583,NA,C,C,NA,"Syria New York, NY",3rd,lived
+"Badman, Miss. Emily Louisa",female,18,0,0,A/4 31416,8.05,NA,S,C,NA,"London Skanteales, NY",3rd,lived
+"Badt, Mr. Mohamed",male,40,0,0,2623,7.225,NA,C,NA,NA,NA,3rd,died
+"Balkic, Mr. Cerin",male,26,0,0,349248,7.8958,NA,S,NA,NA,NA,3rd,died
+"Barah, Mr. Hanna Assi",male,20,0,0,2663,7.2292,NA,C,15,NA,NA,3rd,lived
+"Barbara, Miss. Saiide",female,18,0,1,2691,14.4542,NA,C,NA,NA,"Syria Ottawa, ON",3rd,died
+"Barbara, Mrs. (Catherine David)",female,45,0,1,2691,14.4542,NA,C,NA,NA,"Syria Ottawa, ON",3rd,died
+"Barry, Miss. Julia",female,27,0,0,330844,7.8792,NA,Q,NA,NA,"New York, NY",3rd,died
+"Barton, Mr. David John",male,22,0,0,324669,8.05,NA,S,NA,NA,"England New York, NY",3rd,died
+"Beavan, Mr. William Thomas",male,19,0,0,323951,8.05,NA,S,NA,NA,England,3rd,died
+"Bengtsson, Mr. John Viktor",male,26,0,0,347068,7.775,NA,S,NA,NA,"Krakudden, Sweden Moune, IL",3rd,died
+"Berglund, Mr. Karl Ivar Sven",male,22,0,0,PP 4348,9.35,NA,S,NA,NA,"Tranvik, Finland New York",3rd,died
+"Betros, Master. Seman",male,NA,0,0,2622,7.2292,NA,C,NA,NA,NA,3rd,died
+"Betros, Mr. Tannous",male,20,0,0,2648,4.0125,NA,C,NA,NA,Syria,3rd,died
+"Bing, Mr. Lee",male,32,0,0,1601,56.4958,NA,S,C,NA,"Hong Kong New York, NY",3rd,lived
+"Birkeland, Mr. Hans Martin Monsen",male,21,0,0,312992,7.775,NA,S,NA,NA,"Brennes, Norway New York",3rd,died
+"Bjorklund, Mr. Ernst Herbert",male,18,0,0,347090,7.75,NA,S,NA,NA,"Stockholm, Sweden New York",3rd,died
+"Bostandyeff, Mr. Guentcho",male,26,0,0,349224,7.8958,NA,S,NA,NA,"Bulgaria Chicago, IL",3rd,died
+"Boulos, Master. Akar",male,6,1,1,2678,15.2458,NA,C,NA,NA,"Syria Kent, ON",3rd,died
+"Boulos, Miss. Nourelain",female,9,1,1,2678,15.2458,NA,C,NA,NA,"Syria Kent, ON",3rd,died
+"Boulos, Mr. Hanna",male,NA,0,0,2664,7.225,NA,C,NA,NA,Syria,3rd,died
+"Boulos, Mrs. Joseph (Sultana)",female,NA,0,2,2678,15.2458,NA,C,NA,NA,"Syria Kent, ON",3rd,died
+"Bourke, Miss. Mary",female,NA,0,2,364848,7.75,NA,Q,NA,NA,"Ireland Chicago, IL",3rd,died
+"Bourke, Mr. John",male,40,1,1,364849,15.5,NA,Q,NA,NA,"Ireland Chicago, IL",3rd,died
+"Bourke, Mrs. John (Catherine)",female,32,1,1,364849,15.5,NA,Q,NA,NA,"Ireland Chicago, IL",3rd,died
+"Bowen, Mr. David John ""Dai""",male,21,0,0,54636,16.1,NA,S,NA,NA,"Treherbert, Cardiff, Wales",3rd,died
+"Bradley, Miss. Bridget Delia",female,22,0,0,334914,7.725,NA,Q,13,NA,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY",3rd,lived
+"Braf, Miss. Elin Ester Maria",female,20,0,0,347471,7.8542,NA,S,NA,NA,"Medeltorp, Sweden Chicago, IL",3rd,died
+"Braund, Mr. Lewis Richard",male,29,1,0,3460,7.0458,NA,S,NA,NA,"Bridgerule, Devon",3rd,died
+"Braund, Mr. Owen Harris",male,22,1,0,A/5 21171,7.25,NA,S,NA,NA,"Bridgerule, Devon",3rd,died
+"Brobeck, Mr. Karl Rudolf",male,22,0,0,350045,7.7958,NA,S,NA,NA,"Sweden Worcester, MA",3rd,died
+"Brocklebank, Mr. William Alfred",male,35,0,0,364512,8.05,NA,S,NA,NA,"Broomfield, Chelmsford, England",3rd,died
+"Buckley, Miss. Katherine",female,18.5,0,0,329944,7.2833,NA,Q,NA,299,"Co Cork, Ireland Roxbury, MA",3rd,died
+"Buckley, Mr. Daniel",male,21,0,0,330920,7.8208,NA,Q,13,NA,"Kingwilliamstown, Co Cork, Ireland New York, NY",3rd,lived
+"Burke, Mr. Jeremiah",male,19,0,0,365222,6.75,NA,Q,NA,NA,"Co Cork, Ireland Charlestown, MA",3rd,died
+"Burns, Miss. Mary Delia",female,18,0,0,330963,7.8792,NA,Q,NA,NA,"Co Sligo, Ireland New York, NY",3rd,died
+"Cacic, Miss. Manda",female,21,0,0,315087,8.6625,NA,S,NA,NA,NA,3rd,died
+"Cacic, Miss. Marija",female,30,0,0,315084,8.6625,NA,S,NA,NA,NA,3rd,died
+"Cacic, Mr. Jego Grga",male,18,0,0,315091,8.6625,NA,S,NA,NA,NA,3rd,died
+"Cacic, Mr. Luka",male,38,0,0,315089,8.6625,NA,S,NA,NA,Croatia,3rd,died
+"Calic, Mr. Jovo",male,17,0,0,315093,8.6625,NA,S,NA,NA,NA,3rd,died
+"Calic, Mr. Petar",male,17,0,0,315086,8.6625,NA,S,NA,NA,NA,3rd,died
+"Canavan, Miss. Mary",female,21,0,0,364846,7.75,NA,Q,NA,NA,NA,3rd,died
+"Canavan, Mr. Patrick",male,21,0,0,364858,7.75,NA,Q,NA,NA,"Ireland Philadelphia, PA",3rd,died
+"Cann, Mr. Ernest Charles",male,21,0,0,A./5. 2152,8.05,NA,S,NA,NA,NA,3rd,died
+"Caram, Mr. Joseph",male,NA,1,0,2689,14.4583,NA,C,NA,NA,"Ottawa, ON",3rd,died
+"Caram, Mrs. Joseph (Maria Elias)",female,NA,1,0,2689,14.4583,NA,C,NA,NA,"Ottawa, ON",3rd,died
+"Carlsson, Mr. August Sigfrid",male,28,0,0,350042,7.7958,NA,S,NA,NA,"Dagsas, Sweden Fower, MN",3rd,died
+"Carlsson, Mr. Carl Robert",male,24,0,0,350409,7.8542,NA,S,NA,NA,"Goteborg, Sweden Huntley, IL",3rd,died
+"Carr, Miss. Helen ""Ellen""",female,16,0,0,367231,7.75,NA,Q,16,NA,"Co Longford, Ireland New York, NY",3rd,lived
+"Carr, Miss. Jeannie",female,37,0,0,368364,7.75,NA,Q,NA,NA,"Co Sligo, Ireland Hartford, CT",3rd,died
+"Carver, Mr. Alfred John",male,28,0,0,392095,7.25,NA,S,NA,NA,"St Denys, Southampton, Hants",3rd,died
+"Celotti, Mr. Francesco",male,24,0,0,343275,8.05,NA,S,NA,NA,London,3rd,died
+"Charters, Mr. David",male,21,0,0,A/5. 13032,7.7333,NA,Q,NA,NA,"Ireland New York, NY",3rd,died
+"Chip, Mr. Chang",male,32,0,0,1601,56.4958,NA,S,C,NA,"Hong Kong New York, NY",3rd,lived
+"Christmann, Mr. Emil",male,29,0,0,343276,8.05,NA,S,NA,NA,NA,3rd,died
+"Chronopoulos, Mr. Apostolos",male,26,1,0,2680,14.4542,NA,C,NA,NA,Greece,3rd,died
+"Chronopoulos, Mr. Demetrios",male,18,1,0,2680,14.4542,NA,C,NA,NA,Greece,3rd,died
+"Coelho, Mr. Domingos Fernandeo",male,20,0,0,SOTON/O.Q. 3101307,7.05,NA,S,NA,NA,Portugal,3rd,died
+"Cohen, Mr. Gurshon ""Gus""",male,18,0,0,A/5 3540,8.05,NA,S,12,NA,"London Brooklyn, NY",3rd,lived
+"Colbert, Mr. Patrick",male,24,0,0,371109,7.25,NA,Q,NA,NA,"Co Limerick, Ireland Sherbrooke, PQ",3rd,died
+"Coleff, Mr. Peju",male,36,0,0,349210,7.4958,NA,S,NA,NA,"Bulgaria Chicago, IL",3rd,died
+"Coleff, Mr. Satio",male,24,0,0,349209,7.4958,NA,S,NA,NA,NA,3rd,died
+"Conlon, Mr. Thomas Henry",male,31,0,0,21332,7.7333,NA,Q,NA,NA,"Philadelphia, PA",3rd,died
+"Connaghton, Mr. Michael",male,31,0,0,335097,7.75,NA,Q,NA,NA,"Ireland Brooklyn, NY",3rd,died
+"Connolly, Miss. Kate",female,22,0,0,370373,7.75,NA,Q,13,NA,Ireland,3rd,lived
+"Connolly, Miss. Kate",female,30,0,0,330972,7.6292,NA,Q,NA,NA,Ireland,3rd,died
+"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,NA,Q,NA,171,NA,3rd,died
+"Cook, Mr. Jacob",male,43,0,0,A/5 3536,8.05,NA,S,NA,NA,NA,3rd,died
+"Cor, Mr. Bartol",male,35,0,0,349230,7.8958,NA,S,NA,NA,Austria,3rd,died
+"Cor, Mr. Ivan",male,27,0,0,349229,7.8958,NA,S,NA,NA,Austria,3rd,died
+"Cor, Mr. Liudevit",male,19,0,0,349231,7.8958,NA,S,NA,NA,Austria,3rd,died
+"Corn, Mr. Harry",male,30,0,0,SOTON/OQ 392090,8.05,NA,S,NA,NA,London,3rd,died
+"Coutts, Master. Eden Leslie ""Neville""",male,9,1,1,C.A. 37671,15.9,NA,S,2,NA,"England Brooklyn, NY",3rd,lived
+"Coutts, Master. William Loch ""William""",male,3,1,1,C.A. 37671,15.9,NA,S,2,NA,"England Brooklyn, NY",3rd,lived
+"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",female,36,0,2,C.A. 37671,15.9,NA,S,2,NA,"England Brooklyn, NY",3rd,lived
+"Coxon, Mr. Daniel",male,59,0,0,364500,7.25,NA,S,NA,NA,"Merrill, WI",3rd,died
+"Crease, Mr. Ernest James",male,19,0,0,S.P. 3464,8.1583,NA,S,NA,NA,"Bristol, England Cleveland, OH",3rd,died
+"Cribb, Miss. Laura Alice",female,17,0,1,371362,16.1,NA,S,12,NA,"Bournemouth, England Newark, NJ",3rd,lived
+"Cribb, Mr. John Hatfield",male,44,0,1,371362,16.1,NA,S,NA,NA,"Bournemouth, England Newark, NJ",3rd,died
+"Culumovic, Mr. Jeso",male,17,0,0,315090,8.6625,NA,S,NA,NA,Austria-Hungary,3rd,died
+"Daher, Mr. Shedid",male,22.5,0,0,2698,7.225,NA,C,NA,9,NA,3rd,died
+"Dahl, Mr. Karl Edwart",male,45,0,0,7598,8.05,NA,S,15,NA,"Australia Fingal, ND",3rd,lived
+"Dahlberg, Miss. Gerda Ulrika",female,22,0,0,7552,10.5167,NA,S,NA,NA,"Norrlot, Sweden Chicago, IL",3rd,died
+"Dakic, Mr. Branko",male,19,0,0,349228,10.1708,NA,S,NA,NA,Austria,3rd,died
+"Daly, Miss. Margaret Marcella ""Maggie""",female,30,0,0,382650,6.95,NA,Q,15,NA,"Co Athlone, Ireland New York, NY",3rd,lived
+"Daly, Mr. Eugene Patrick",male,29,0,0,382651,7.75,NA,Q,13 15 B,NA,"Co Athlone, Ireland New York, NY",3rd,lived
+"Danbom, Master. Gilbert Sigvard Emanuel",male,0.3333,0,2,347080,14.4,NA,S,NA,NA,"Stanton, IA",3rd,died
+"Danbom, Mr. Ernst Gilbert",male,34,1,1,347080,14.4,NA,S,NA,197,"Stanton, IA",3rd,died
+"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28,1,1,347080,14.4,NA,S,NA,NA,"Stanton, IA",3rd,died
+"Danoff, Mr. Yoto",male,27,0,0,349219,7.8958,NA,S,NA,NA,"Bulgaria Chicago, IL",3rd,died
+"Dantcheff, Mr. Ristiu",male,25,0,0,349203,7.8958,NA,S,NA,NA,"Bulgaria Chicago, IL",3rd,died
+"Davies, Mr. Alfred J",male,24,2,0,A/4 48871,24.15,NA,S,NA,NA,"West Bromwich, England Pontiac, MI",3rd,died
+"Davies, Mr. Evan",male,22,0,0,SC/A4 23568,8.05,NA,S,NA,NA,NA,3rd,died
+"Davies, Mr. John Samuel",male,21,2,0,A/4 48871,24.15,NA,S,NA,NA,"West Bromwich, England Pontiac, MI",3rd,died
+"Davies, Mr. Joseph",male,17,2,0,A/4 48873,8.05,NA,S,NA,NA,"West Bromwich, England Pontiac, MI",3rd,died
+"Davison, Mr. Thomas Henry",male,NA,1,0,386525,16.1,NA,S,NA,NA,"Liverpool, England Bedford, OH",3rd,died
+"Davison, Mrs. Thomas Henry (Mary E Finck)",female,NA,1,0,386525,16.1,NA,S,16,NA,"Liverpool, England Bedford, OH",3rd,lived
+"de Messemaeker, Mr. Guillaume Joseph",male,36.5,1,0,345572,17.4,NA,S,15,NA,"Tampico, MT",3rd,lived
+"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36,1,0,345572,17.4,NA,S,13,NA,"Tampico, MT",3rd,lived
+"de Mulder, Mr. Theodore",male,30,0,0,345774,9.5,NA,S,11,NA,"Belgium Detroit, MI",3rd,lived
+"de Pelsmaeker, Mr. Alfons",male,16,0,0,345778,9.5,NA,S,NA,NA,NA,3rd,died
+"Dean, Master. Bertram Vere",male,1,1,2,C.A. 2315,20.575,NA,S,10,NA,"Devon, England Wichita, KS",3rd,lived
+"Dean, Miss. Elizabeth Gladys ""Millvina""",female,0.1667,1,2,C.A. 2315,20.575,NA,S,10,NA,"Devon, England Wichita, KS",3rd,lived
+"Dean, Mr. Bertram Frank",male,26,1,2,C.A. 2315,20.575,NA,S,NA,NA,"Devon, England Wichita, KS",3rd,died
+"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33,1,2,C.A. 2315,20.575,NA,S,10,NA,"Devon, England Wichita, KS",3rd,lived
+"Delalic, Mr. Redjo",male,25,0,0,349250,7.8958,NA,S,NA,NA,NA,3rd,died
+"Demetri, Mr. Marinko",male,NA,0,0,349238,7.8958,NA,S,NA,NA,NA,3rd,died
+"Denkoff, Mr. Mitto",male,NA,0,0,349225,7.8958,NA,S,NA,NA,"Bulgaria Coon Rapids, IA",3rd,died
+"Dennis, Mr. Samuel",male,22,0,0,A/5 21172,7.25,NA,S,NA,NA,NA,3rd,died
+"Dennis, Mr. William",male,36,0,0,A/5 21175,7.25,NA,S,NA,NA,NA,3rd,died
+"Devaney, Miss. Margaret Delia",female,19,0,0,330958,7.8792,NA,Q,C,NA,"Kilmacowen, Co Sligo, Ireland New York, NY",3rd,lived
+"Dika, Mr. Mirko",male,17,0,0,349232,7.8958,NA,S,NA,NA,NA,3rd,died
+"Dimic, Mr. Jovan",male,42,0,0,315088,8.6625,NA,S,NA,NA,NA,3rd,died
+"Dintcheff, Mr. Valtcho",male,43,0,0,349226,7.8958,NA,S,NA,NA,NA,3rd,died
+"Doharr, Mr. Tannous",male,NA,0,0,2686,7.2292,NA,C,NA,NA,NA,3rd,died
+"Dooley, Mr. Patrick",male,32,0,0,370376,7.75,NA,Q,NA,NA,"Ireland New York, NY",3rd,died
+"Dorking, Mr. Edward Arthur",male,19,0,0,A/5. 10482,8.05,NA,S,B,NA,"England Oglesby, IL",3rd,lived
+"Dowdell, Miss. Elizabeth",female,30,0,0,364516,12.475,NA,S,13,NA,"Union Hill, NJ",3rd,lived
+"Doyle, Miss. Elizabeth",female,24,0,0,368702,7.75,NA,Q,NA,NA,"Ireland New York, NY",3rd,died
+"Drapkin, Miss. Jennie",female,23,0,0,SOTON/OQ 392083,8.05,NA,S,NA,NA,"London New York, NY",3rd,lived
+"Drazenoic, Mr. Jozef",male,33,0,0,349241,7.8958,NA,C,NA,51,"Austria Niagara Falls, NY",3rd,died
+"Duane, Mr. Frank",male,65,0,0,336439,7.75,NA,Q,NA,NA,NA,3rd,died
+"Duquemin, Mr. Joseph",male,24,0,0,S.O./P.P. 752,7.55,NA,S,D,NA,"England Albion, NY",3rd,lived
+"Dyker, Mr. Adolf Fredrik",male,23,1,0,347072,13.9,NA,S,NA,NA,"West Haven, CT",3rd,died
+"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22,1,0,347072,13.9,NA,S,16,NA,"West Haven, CT",3rd,lived
+"Edvardsson, Mr. Gustaf Hjalmar",male,18,0,0,349912,7.775,NA,S,NA,NA,"Tofta, Sweden Joliet, IL",3rd,died
+"Eklund, Mr. Hans Linus",male,16,0,0,347074,7.775,NA,S,NA,NA,"Karberg, Sweden Jerome Junction, AZ",3rd,died
+"Ekstrom, Mr. Johan",male,45,0,0,347061,6.975,NA,S,NA,NA,"Effington Rut, SD",3rd,died
+"Elias, Mr. Dibo",male,NA,0,0,2674,7.225,NA,C,NA,NA,NA,3rd,died
+"Elias, Mr. Joseph",male,39,0,2,2675,7.2292,NA,C,NA,NA,"Syria Ottawa, ON",3rd,died
+"Elias, Mr. Joseph Jr",male,17,1,1,2690,7.2292,NA,C,NA,NA,NA,3rd,died
+"Elias, Mr. Tannous",male,15,1,1,2695,7.2292,NA,C,NA,NA,Syria,3rd,died
+"Elsbury, Mr. William James",male,47,0,0,A/5 3902,7.25,NA,S,NA,NA,"Illinois, USA",3rd,died
+"Emanuel, Miss. Virginia Ethel",female,5,0,0,364516,12.475,NA,S,13,NA,"New York, NY",3rd,lived
+"Emir, Mr. Farred Chehab",male,NA,0,0,2631,7.225,NA,C,NA,NA,NA,3rd,died
+"Everett, Mr. Thomas James",male,40.5,0,0,C.A. 6212,15.1,NA,S,NA,187,NA,3rd,died
+"Farrell, Mr. James",male,40.5,0,0,367232,7.75,NA,Q,NA,68,"Aughnacliff, Co Longford, Ireland New York, NY",3rd,died
+"Finoli, Mr. Luigi",male,NA,0,0,SOTON/O.Q. 3101308,7.05,NA,S,15,NA,"Italy Philadelphia, PA",3rd,lived
+"Fischer, Mr. Eberhard Thelander",male,18,0,0,350036,7.7958,NA,S,NA,NA,NA,3rd,died
+"Fleming, Miss. Honora",female,NA,0,0,364859,7.75,NA,Q,NA,NA,NA,3rd,died
+"Flynn, Mr. James",male,NA,0,0,364851,7.75,NA,Q,NA,NA,NA,3rd,died
+"Flynn, Mr. John",male,NA,0,0,368323,6.95,NA,Q,NA,NA,NA,3rd,died
+"Foley, Mr. Joseph",male,26,0,0,330910,7.8792,NA,Q,NA,NA,"Ireland Chicago, IL",3rd,died
+"Foley, Mr. William",male,NA,0,0,365235,7.75,NA,Q,NA,NA,Ireland,3rd,died
+"Foo, Mr. Choong",male,NA,0,0,1601,56.4958,NA,S,13,NA,"Hong Kong New York, NY",3rd,lived
+"Ford, Miss. Doolina Margaret ""Daisy""",female,21,2,2,W./C. 6608,34.375,NA,S,NA,NA,"Rotherfield, Sussex, England Essex Co, MA",3rd,died
+"Ford, Miss. Robina Maggie ""Ruby""",female,9,2,2,W./C. 6608,34.375,NA,S,NA,NA,"Rotherfield, Sussex, England Essex Co, MA",3rd,died
+"Ford, Mr. Arthur",male,NA,0,0,A/5 1478,8.05,NA,S,NA,NA,"Bridgwater, Somerset, England",3rd,died
+"Ford, Mr. Edward Watson",male,18,2,2,W./C. 6608,34.375,NA,S,NA,NA,"Rotherfield, Sussex, England Essex Co, MA",3rd,died
+"Ford, Mr. William Neal",male,16,1,3,W./C. 6608,34.375,NA,S,NA,NA,"Rotherfield, Sussex, England Essex Co, MA",3rd,died
+"Ford, Mrs. Edward (Margaret Ann Watson)",female,48,1,3,W./C. 6608,34.375,NA,S,NA,NA,"Rotherfield, Sussex, England Essex Co, MA",3rd,died
+"Fox, Mr. Patrick",male,NA,0,0,368573,7.75,NA,Q,NA,NA,"Ireland New York, NY",3rd,died
+"Franklin, Mr. Charles (Charles Fardon)",male,NA,0,0,SOTON/O.Q. 3101314,7.25,NA,S,NA,NA,NA,3rd,died
+"Gallagher, Mr. Martin",male,25,0,0,36864,7.7417,NA,Q,NA,NA,"New York, NY",3rd,died
+"Garfirth, Mr. John",male,NA,0,0,358585,14.5,NA,S,NA,NA,NA,3rd,died
+"Gheorgheff, Mr. Stanio",male,NA,0,0,349254,7.8958,NA,C,NA,NA,NA,3rd,died
+"Gilinski, Mr. Eliezer",male,22,0,0,14973,8.05,NA,S,NA,47,NA,3rd,died
+"Gilnagh, Miss. Katherine ""Katie""",female,16,0,0,35851,7.7333,NA,Q,16,NA,"Co Longford, Ireland New York, NY",3rd,lived
+"Glynn, Miss. Mary Agatha",female,NA,0,0,335677,7.75,NA,Q,13,NA,"Co Clare, Ireland Washington, DC",3rd,lived
+"Goldsmith, Master. Frank John William ""Frankie""",male,9,0,2,363291,20.525,NA,S,C D,NA,"Strood, Kent, England Detroit, MI",3rd,lived
+"Goldsmith, Mr. Frank John",male,33,1,1,363291,20.525,NA,S,NA,NA,"Strood, Kent, England Detroit, MI",3rd,died
+"Goldsmith, Mr. Nathan",male,41,0,0,SOTON/O.Q. 3101263,7.85,NA,S,NA,NA,"Philadelphia, PA",3rd,died
+"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31,1,1,363291,20.525,NA,S,C D,NA,"Strood, Kent, England Detroit, MI",3rd,lived
+"Goncalves, Mr. Manuel Estanslas",male,38,0,0,SOTON/O.Q. 3101306,7.05,NA,S,NA,NA,Portugal,3rd,died
+"Goodwin, Master. Harold Victor",male,9,5,2,CA 2144,46.9,NA,S,NA,NA,"Wiltshire, England Niagara Falls, NY",3rd,died
+"Goodwin, Master. Sidney Leonard",male,1,5,2,CA 2144,46.9,NA,S,NA,NA,"Wiltshire, England Niagara Falls, NY",3rd,died
+"Goodwin, Master. William Frederick",male,11,5,2,CA 2144,46.9,NA,S,NA,NA,"Wiltshire, England Niagara Falls, NY",3rd,died
+"Goodwin, Miss. Jessie Allis",female,10,5,2,CA 2144,46.9,NA,S,NA,NA,"Wiltshire, England Niagara Falls, NY",3rd,died
+"Goodwin, Miss. Lillian Amy",female,16,5,2,CA 2144,46.9,NA,S,NA,NA,"Wiltshire, England Niagara Falls, NY",3rd,died
+"Goodwin, Mr. Charles Edward",male,14,5,2,CA 2144,46.9,NA,S,NA,NA,"Wiltshire, England Niagara Falls, NY",3rd,died
+"Goodwin, Mr. Charles Frederick",male,40,1,6,CA 2144,46.9,NA,S,NA,NA,"Wiltshire, England Niagara Falls, NY",3rd,died
+"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43,1,6,CA 2144,46.9,NA,S,NA,NA,"Wiltshire, England Niagara Falls, NY",3rd,died
+"Green, Mr. George Henry",male,51,0,0,21440,8.05,NA,S,NA,NA,"Dorking, Surrey, England",3rd,died
+"Gronnestad, Mr. Daniel Danielsen",male,32,0,0,8471,8.3625,NA,S,NA,NA,"Foresvik, Norway Portland, ND",3rd,died
+"Guest, Mr. Robert",male,NA,0,0,376563,8.05,NA,S,NA,NA,NA,3rd,died
+"Gustafsson, Mr. Alfred Ossian",male,20,0,0,7534,9.8458,NA,S,NA,NA,"Waukegan, Chicago, IL",3rd,died
+"Gustafsson, Mr. Anders Vilhelm",male,37,2,0,3101276,7.925,NA,S,NA,98,"Ruotsinphytaa, Finland New York, NY",3rd,died
+"Gustafsson, Mr. Johan Birger",male,28,2,0,3101277,7.925,NA,S,NA,NA,"Ruotsinphytaa, Finland New York, NY",3rd,died
+"Gustafsson, Mr. Karl Gideon",male,19,0,0,347069,7.775,NA,S,NA,NA,"Myren, Sweden New York, NY",3rd,died
+"Haas, Miss. Aloisia",female,24,0,0,349236,8.85,NA,S,NA,NA,NA,3rd,died
+"Hagardon, Miss. Kate",female,17,0,0,AQ/3. 30631,7.7333,NA,Q,NA,NA,NA,3rd,died
+"Hagland, Mr. Ingvald Olai Olsen",male,NA,1,0,65303,19.9667,NA,S,NA,NA,NA,3rd,died
+"Hagland, Mr. Konrad Mathias Reiersen",male,NA,1,0,65304,19.9667,NA,S,NA,NA,NA,3rd,died
+"Hakkarainen, Mr. Pekka Pietari",male,28,1,0,STON/O2. 3101279,15.85,NA,S,NA,NA,NA,3rd,died
+"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24,1,0,STON/O2. 3101279,15.85,NA,S,15,NA,NA,3rd,lived
+"Hampe, Mr. Leon",male,20,0,0,345769,9.5,NA,S,NA,NA,NA,3rd,died
+"Hanna, Mr. Mansour",male,23.5,0,0,2693,7.2292,NA,C,NA,188,NA,3rd,died
+"Hansen, Mr. Claus Peter",male,41,2,0,350026,14.1083,NA,S,NA,NA,NA,3rd,died
+"Hansen, Mr. Henrik Juul",male,26,1,0,350025,7.8542,NA,S,NA,NA,NA,3rd,died
+"Hansen, Mr. Henry Damsgaard",male,21,0,0,350029,7.8542,NA,S,NA,69,NA,3rd,died
+"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45,1,0,350026,14.1083,NA,S,11,NA,NA,3rd,lived
+"Harknett, Miss. Alice Phoebe",female,NA,0,0,W./C. 6609,7.55,NA,S,NA,NA,NA,3rd,died
+"Harmer, Mr. Abraham (David Lishin)",male,25,0,0,374887,7.25,NA,S,B,NA,NA,3rd,died
+"Hart, Mr. Henry",male,NA,0,0,394140,6.8583,NA,Q,NA,NA,NA,3rd,died
+"Hassan, Mr. Houssein G N",male,11,0,0,2699,18.7875,NA,C,NA,NA,NA,3rd,died
+"Healy, Miss. Hanora ""Nora""",female,NA,0,0,370375,7.75,NA,Q,16,NA,NA,3rd,lived
+"Hedman, Mr. Oskar Arvid",male,27,0,0,347089,6.975,NA,S,15,NA,NA,3rd,lived
+"Hee, Mr. Ling",male,NA,0,0,1601,56.4958,NA,S,C,NA,NA,3rd,lived
+"Hegarty, Miss. Hanora ""Nora""",female,18,0,0,365226,6.75,NA,Q,NA,NA,NA,3rd,died
+"Heikkinen, Miss. Laina",female,26,0,0,STON/O2. 3101282,7.925,NA,S,NA,NA,NA,3rd,lived
+"Heininen, Miss. Wendla Maria",female,23,0,0,STON/O2. 3101290,7.925,NA,S,NA,NA,NA,3rd,died
+"Hellstrom, Miss. Hilda Maria",female,22,0,0,7548,8.9625,NA,S,C,NA,NA,3rd,lived
+"Hendekovic, Mr. Ignjac",male,28,0,0,349243,7.8958,NA,S,NA,306,NA,3rd,died
+"Henriksson, Miss. Jenny Lovisa",female,28,0,0,347086,7.775,NA,S,NA,NA,NA,3rd,died
+"Henry, Miss. Delia",female,NA,0,0,382649,7.75,NA,Q,NA,NA,NA,3rd,died
+"Hirvonen, Miss. Hildur E",female,2,0,1,3101298,12.2875,NA,S,15,NA,NA,3rd,lived
+"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22,1,1,3101298,12.2875,NA,S,15,NA,NA,3rd,lived
+"Holm, Mr. John Fredrik Alexander",male,43,0,0,C 7075,6.45,NA,S,NA,NA,NA,3rd,died
+"Holthen, Mr. Johan Martin",male,28,0,0,C 4001,22.525,NA,S,NA,NA,NA,3rd,died
+"Honkanen, Miss. Eliina",female,27,0,0,STON/O2. 3101283,7.925,NA,S,NA,NA,NA,3rd,lived
+"Horgan, Mr. John",male,NA,0,0,370377,7.75,NA,Q,NA,NA,NA,3rd,died
+"Howard, Miss. May Elizabeth",female,NA,0,0,A. 2. 39186,8.05,NA,S,C,NA,NA,3rd,lived
+"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42,0,0,348121,7.65,F G63,S,NA,120,NA,3rd,died
+"Hyman, Mr. Abraham",male,NA,0,0,3470,7.8875,NA,S,C,NA,NA,3rd,lived
+"Ibrahim Shawah, Mr. Yousseff",male,30,0,0,2685,7.2292,NA,C,NA,NA,NA,3rd,died
+"Ilieff, Mr. Ylio",male,NA,0,0,349220,7.8958,NA,S,NA,NA,NA,3rd,died
+"Ilmakangas, Miss. Ida Livija",female,27,1,0,STON/O2. 3101270,7.925,NA,S,NA,NA,NA,3rd,died
+"Ilmakangas, Miss. Pieta Sofia",female,25,1,0,STON/O2. 3101271,7.925,NA,S,NA,NA,NA,3rd,died
+"Ivanoff, Mr. Kanio",male,NA,0,0,349201,7.8958,NA,S,NA,NA,NA,3rd,died
+"Jalsevac, Mr. Ivan",male,29,0,0,349240,7.8958,NA,C,15,NA,NA,3rd,lived
+"Jansson, Mr. Carl Olof",male,21,0,0,350034,7.7958,NA,S,A,NA,NA,3rd,lived
+"Jardin, Mr. Jose Neto",male,NA,0,0,SOTON/O.Q. 3101305,7.05,NA,S,NA,NA,NA,3rd,died
+"Jensen, Mr. Hans Peder",male,20,0,0,350050,7.8542,NA,S,NA,NA,NA,3rd,died
+"Jensen, Mr. Niels Peder",male,48,0,0,350047,7.8542,NA,S,NA,NA,NA,3rd,died
+"Jensen, Mr. Svend Lauritz",male,17,1,0,350048,7.0542,NA,S,NA,NA,NA,3rd,died
+"Jermyn, Miss. Annie",female,NA,0,0,14313,7.75,NA,Q,D,NA,NA,3rd,lived
+"Johannesen-Bratthammer, Mr. Bernt",male,NA,0,0,65306,8.1125,NA,S,13,NA,NA,3rd,lived
+"Johanson, Mr. Jakob Alfred",male,34,0,0,3101264,6.4958,NA,S,NA,143,NA,3rd,died
+"Johansson Palmquist, Mr. Oskar Leander",male,26,0,0,347070,7.775,NA,S,15,NA,NA,3rd,lived
+"Johansson, Mr. Erik",male,22,0,0,350052,7.7958,NA,S,NA,156,NA,3rd,died
+"Johansson, Mr. Gustaf Joel",male,33,0,0,7540,8.6542,NA,S,NA,285,NA,3rd,died
+"Johansson, Mr. Karl Johan",male,31,0,0,347063,7.775,NA,S,NA,NA,NA,3rd,died
+"Johansson, Mr. Nils",male,29,0,0,347467,7.8542,NA,S,NA,NA,NA,3rd,died
+"Johnson, Master. Harold Theodor",male,4,1,1,347742,11.1333,NA,S,15,NA,NA,3rd,lived
+"Johnson, Miss. Eleanor Ileen",female,1,1,1,347742,11.1333,NA,S,15,NA,NA,3rd,lived
+"Johnson, Mr. Alfred",male,49,0,0,LINE,0,NA,S,NA,NA,NA,3rd,died
+"Johnson, Mr. Malkolm Joackim",male,33,0,0,347062,7.775,NA,S,NA,37,NA,3rd,died
+"Johnson, Mr. William Cahoone Jr",male,19,0,0,LINE,0,NA,S,NA,NA,NA,3rd,died
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,0,2,347742,11.1333,NA,S,15,NA,NA,3rd,lived
+"Johnston, Master. William Arthur ""Willie""",male,NA,1,2,W./C. 6607,23.45,NA,S,NA,NA,NA,3rd,died
+"Johnston, Miss. Catherine Helen ""Carrie""",female,NA,1,2,W./C. 6607,23.45,NA,S,NA,NA,NA,3rd,died
+"Johnston, Mr. Andrew G",male,NA,1,2,W./C. 6607,23.45,NA,S,NA,NA,NA,3rd,died
+"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)",female,NA,1,2,W./C. 6607,23.45,NA,S,NA,NA,NA,3rd,died
+"Jonkoff, Mr. Lalio",male,23,0,0,349204,7.8958,NA,S,NA,NA,NA,3rd,died
+"Jonsson, Mr. Carl",male,32,0,0,350417,7.8542,NA,S,15,NA,NA,3rd,lived
+"Jonsson, Mr. Nils Hilding",male,27,0,0,350408,7.8542,NA,S,NA,NA,NA,3rd,died
+"Jussila, Miss. Katriina",female,20,1,0,4136,9.825,NA,S,NA,NA,NA,3rd,died
+"Jussila, Miss. Mari Aina",female,21,1,0,4137,9.825,NA,S,NA,NA,NA,3rd,died
+"Jussila, Mr. Eiriik",male,32,0,0,STON/O 2. 3101286,7.925,NA,S,15,NA,NA,3rd,lived
+"Kallio, Mr. Nikolai Erland",male,17,0,0,STON/O 2. 3101274,7.125,NA,S,NA,NA,NA,3rd,died
+"Kalvik, Mr. Johannes Halvorsen",male,21,0,0,8475,8.4333,NA,S,NA,NA,NA,3rd,died
+"Karaic, Mr. Milan",male,30,0,0,349246,7.8958,NA,S,NA,NA,NA,3rd,died
+"Karlsson, Mr. Einar Gervasius",male,21,0,0,350053,7.7958,NA,S,13,NA,NA,3rd,lived
+"Karlsson, Mr. Julius Konrad Eugen",male,33,0,0,347465,7.8542,NA,S,NA,NA,NA,3rd,died
+"Karlsson, Mr. Nils August",male,22,0,0,350060,7.5208,NA,S,NA,NA,NA,3rd,died
+"Karun, Miss. Manca",female,4,0,1,349256,13.4167,NA,C,15,NA,NA,3rd,lived
+"Karun, Mr. Franz",male,39,0,1,349256,13.4167,NA,C,15,NA,NA,3rd,lived
+"Kassem, Mr. Fared",male,NA,0,0,2700,7.2292,NA,C,NA,NA,NA,3rd,died
+"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",male,18.5,0,0,2682,7.2292,NA,C,NA,58,NA,3rd,died
+"Keane, Mr. Andrew ""Andy""",male,NA,0,0,12460,7.75,NA,Q,NA,NA,NA,3rd,died
+"Keefe, Mr. Arthur",male,NA,0,0,323592,7.25,NA,S,A,NA,NA,3rd,died
+"Kelly, Miss. Anna Katherine ""Annie Kate""",female,NA,0,0,9234,7.75,NA,Q,16,NA,NA,3rd,lived
+"Kelly, Miss. Mary",female,NA,0,0,14312,7.75,NA,Q,D,NA,NA,3rd,lived
+"Kelly, Mr. James",male,34.5,0,0,330911,7.8292,NA,Q,NA,70,NA,3rd,died
+"Kelly, Mr. James",male,44,0,0,363592,8.05,NA,S,NA,NA,NA,3rd,died
+"Kennedy, Mr. John",male,NA,0,0,368783,7.75,NA,Q,NA,NA,NA,3rd,lived
+"Khalil, Mr. Betros",male,NA,1,0,2660,14.4542,NA,C,NA,NA,NA,3rd,died
+"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)",female,NA,1,0,2660,14.4542,NA,C,NA,NA,NA,3rd,died
+"Kiernan, Mr. John",male,NA,1,0,367227,7.75,NA,Q,NA,NA,NA,3rd,died
+"Kiernan, Mr. Philip",male,NA,1,0,367229,7.75,NA,Q,NA,NA,NA,3rd,died
+"Kilgannon, Mr. Thomas J",male,NA,0,0,36865,7.7375,NA,Q,NA,NA,NA,3rd,died
+"Kink, Miss. Maria",female,22,2,0,315152,8.6625,NA,S,NA,NA,NA,3rd,died
+"Kink, Mr. Vincenz",male,26,2,0,315151,8.6625,NA,S,NA,NA,NA,3rd,died
+"Kink-Heilmann, Miss. Luise Gretchen",female,4,0,2,315153,22.025,NA,S,2,NA,NA,3rd,lived
+"Kink-Heilmann, Mr. Anton",male,29,3,1,315153,22.025,NA,S,2,NA,NA,3rd,lived
+"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26,1,1,315153,22.025,NA,S,2,NA,NA,3rd,lived
+"Klasen, Miss. Gertrud Emilia",female,1,1,1,350405,12.1833,NA,S,NA,NA,NA,3rd,died
+"Klasen, Mr. Klas Albin",male,18,1,1,350404,7.8542,NA,S,NA,NA,NA,3rd,died
+"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36,0,2,350405,12.1833,NA,S,NA,NA,NA,3rd,died
+"Kraeff, Mr. Theodor",male,NA,0,0,349253,7.8958,NA,C,NA,NA,NA,3rd,died
+"Krekorian, Mr. Neshan",male,25,0,0,2654,7.2292,F E57,C,10,NA,NA,3rd,lived
+"Lahoud, Mr. Sarkis",male,NA,0,0,2624,7.225,NA,C,NA,NA,NA,3rd,died
+"Laitinen, Miss. Kristina Sofia",female,37,0,0,4135,9.5875,NA,S,NA,NA,NA,3rd,died
+"Laleff, Mr. Kristo",male,NA,0,0,349217,7.8958,NA,S,NA,NA,NA,3rd,died
+"Lam, Mr. Ali",male,NA,0,0,1601,56.4958,NA,S,C,NA,NA,3rd,lived
+"Lam, Mr. Len",male,NA,0,0,1601,56.4958,NA,S,NA,NA,NA,3rd,died
+"Landergren, Miss. Aurora Adelia",female,22,0,0,C 7077,7.25,NA,S,13,NA,NA,3rd,lived
+"Lane, Mr. Patrick",male,NA,0,0,7935,7.75,NA,Q,NA,NA,NA,3rd,died
+"Lang, Mr. Fang",male,26,0,0,1601,56.4958,NA,S,14,NA,NA,3rd,lived
+"Larsson, Mr. August Viktor",male,29,0,0,7545,9.4833,NA,S,NA,NA,NA,3rd,died
+"Larsson, Mr. Bengt Edvin",male,29,0,0,347067,7.775,NA,S,NA,NA,NA,3rd,died
+"Larsson-Rondberg, Mr. Edvard A",male,22,0,0,347065,7.775,NA,S,NA,NA,NA,3rd,died
+"Leeni, Mr. Fahim (""Philip Zenni"")",male,22,0,0,2620,7.225,NA,C,6,NA,NA,3rd,lived
+"Lefebre, Master. Henry Forbes",male,NA,3,1,4133,25.4667,NA,S,NA,NA,NA,3rd,died
+"Lefebre, Miss. Ida",female,NA,3,1,4133,25.4667,NA,S,NA,NA,NA,3rd,died
+"Lefebre, Miss. Jeannie",female,NA,3,1,4133,25.4667,NA,S,NA,NA,NA,3rd,died
+"Lefebre, Miss. Mathilde",female,NA,3,1,4133,25.4667,NA,S,NA,NA,NA,3rd,died
+"Lefebre, Mrs. Frank (Frances)",female,NA,0,4,4133,25.4667,NA,S,NA,NA,NA,3rd,died
+"Leinonen, Mr. Antti Gustaf",male,32,0,0,STON/O 2. 3101292,7.925,NA,S,NA,NA,NA,3rd,died
+"Lemberopolous, Mr. Peter L",male,34.5,0,0,2683,6.4375,NA,C,NA,196,NA,3rd,died
+"Lennon, Miss. Mary",female,NA,1,0,370371,15.5,NA,Q,NA,NA,NA,3rd,died
+"Lennon, Mr. Denis",male,NA,1,0,370371,15.5,NA,Q,NA,NA,NA,3rd,died
+"Leonard, Mr. Lionel",male,36,0,0,LINE,0,NA,S,NA,NA,NA,3rd,died
+"Lester, Mr. James",male,39,0,0,A/4 48871,24.15,NA,S,NA,NA,NA,3rd,died
+"Lievens, Mr. Rene Aime",male,24,0,0,345781,9.5,NA,S,NA,NA,NA,3rd,died
+"Lindahl, Miss. Agda Thorilda Viktoria",female,25,0,0,347071,7.775,NA,S,NA,NA,NA,3rd,died
+"Lindblom, Miss. Augusta Charlotta",female,45,0,0,347073,7.75,NA,S,NA,NA,NA,3rd,died
+"Lindell, Mr. Edvard Bengtsson",male,36,1,0,349910,15.55,NA,S,A,NA,NA,3rd,died
+"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30,1,0,349910,15.55,NA,S,A,NA,NA,3rd,died
+"Lindqvist, Mr. Eino William",male,20,1,0,STON/O 2. 3101285,7.925,NA,S,15,NA,NA,3rd,lived
+"Linehan, Mr. Michael",male,NA,0,0,330971,7.8792,NA,Q,NA,NA,NA,3rd,died
+"Ling, Mr. Lee",male,28,0,0,1601,56.4958,NA,S,NA,NA,NA,3rd,died
+"Lithman, Mr. Simon",male,NA,0,0,S.O./P.P. 251,7.55,NA,S,NA,NA,NA,3rd,died
+"Lobb, Mr. William Arthur",male,30,1,0,A/5. 3336,16.1,NA,S,NA,NA,NA,3rd,died
+"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26,1,0,A/5. 3336,16.1,NA,S,NA,NA,NA,3rd,died
+"Lockyer, Mr. Edward",male,NA,0,0,1222,7.8792,NA,S,NA,153,NA,3rd,died
+"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,0,A/5 21173,7.25,NA,S,NA,NA,NA,3rd,died
+"Lulic, Mr. Nikola",male,27,0,0,315098,8.6625,NA,S,15,NA,NA,3rd,lived
+"Lundahl, Mr. Johan Svensson",male,51,0,0,347743,7.0542,NA,S,NA,NA,NA,3rd,died
+"Lundin, Miss. Olga Elida",female,23,0,0,347469,7.8542,NA,S,10,NA,NA,3rd,lived
+"Lundstrom, Mr. Thure Edvin",male,32,0,0,350403,7.5792,NA,S,15,NA,NA,3rd,lived
+"Lyntakoff, Mr. Stanko",male,NA,0,0,349235,7.8958,NA,S,NA,NA,NA,3rd,died
+"MacKay, Mr. George William",male,NA,0,0,C.A. 42795,7.55,NA,S,NA,NA,NA,3rd,died
+"Madigan, Miss. Margaret ""Maggie""",female,NA,0,0,370370,7.75,NA,Q,15,NA,NA,3rd,lived
+"Madsen, Mr. Fridtjof Arne",male,24,0,0,C 17369,7.1417,NA,S,13,NA,NA,3rd,lived
+"Maenpaa, Mr. Matti Alexanteri",male,22,0,0,STON/O 2. 3101275,7.125,NA,S,NA,NA,NA,3rd,died
+"Mahon, Miss. Bridget Delia",female,NA,0,0,330924,7.8792,NA,Q,NA,NA,NA,3rd,died
+"Mahon, Mr. John",male,NA,0,0,AQ/4 3130,7.75,NA,Q,NA,NA,NA,3rd,died
+"Maisner, Mr. Simon",male,NA,0,0,A/S 2816,8.05,NA,S,NA,NA,NA,3rd,died
+"Makinen, Mr. Kalle Edvard",male,29,0,0,STON/O 2. 3101268,7.925,NA,S,NA,NA,NA,3rd,died
+"Mamee, Mr. Hanna",male,NA,0,0,2677,7.2292,NA,C,15,NA,NA,3rd,lived
+"Mangan, Miss. Mary",female,30.5,0,0,364850,7.75,NA,Q,NA,61,NA,3rd,died
+"Mannion, Miss. Margareth",female,NA,0,0,36866,7.7375,NA,Q,16,NA,NA,3rd,lived
+"Mardirosian, Mr. Sarkis",male,NA,0,0,2655,7.2292,F E46,C,NA,NA,NA,3rd,died
+"Markoff, Mr. Marin",male,35,0,0,349213,7.8958,NA,C,NA,NA,NA,3rd,died
+"Markun, Mr. Johann",male,33,0,0,349257,7.8958,NA,S,NA,NA,NA,3rd,died
+"Masselmani, Mrs. Fatima",female,NA,0,0,2649,7.225,NA,C,C,NA,NA,3rd,lived
+"Matinoff, Mr. Nicola",male,NA,0,0,349255,7.8958,NA,C,NA,NA,NA,3rd,died
+"McCarthy, Miss. Catherine ""Katie""",female,NA,0,0,383123,7.75,NA,Q,15 16,NA,NA,3rd,lived
+"McCormack, Mr. Thomas Joseph",male,NA,0,0,367228,7.75,NA,Q,NA,NA,NA,3rd,lived
+"McCoy, Miss. Agnes",female,NA,2,0,367226,23.25,NA,Q,16,NA,NA,3rd,lived
+"McCoy, Miss. Alicia",female,NA,2,0,367226,23.25,NA,Q,16,NA,NA,3rd,lived
+"McCoy, Mr. Bernard",male,NA,2,0,367226,23.25,NA,Q,16,NA,NA,3rd,lived
+"McDermott, Miss. Brigdet Delia",female,NA,0,0,330932,7.7875,NA,Q,13,NA,NA,3rd,lived
+"McEvoy, Mr. Michael",male,NA,0,0,36568,15.5,NA,Q,NA,NA,NA,3rd,died
+"McGovern, Miss. Mary",female,NA,0,0,330931,7.8792,NA,Q,13,NA,NA,3rd,lived
+"McGowan, Miss. Anna ""Annie""",female,15,0,0,330923,8.0292,NA,Q,NA,NA,NA,3rd,lived
+"McGowan, Miss. Katherine",female,35,0,0,9232,7.75,NA,Q,NA,NA,NA,3rd,died
+"McMahon, Mr. Martin",male,NA,0,0,370372,7.75,NA,Q,NA,NA,NA,3rd,died
+"McNamee, Mr. Neal",male,24,1,0,376566,16.1,NA,S,NA,NA,NA,3rd,died
+"McNamee, Mrs. Neal (Eileen O'Leary)",female,19,1,0,376566,16.1,NA,S,NA,53,NA,3rd,died
+"McNeill, Miss. Bridget",female,NA,0,0,370368,7.75,NA,Q,NA,NA,NA,3rd,died
+"Meanwell, Miss. (Marion Ogden)",female,NA,0,0,SOTON/O.Q. 392087,8.05,NA,S,NA,NA,NA,3rd,died
+"Meek, Mrs. Thomas (Annie Louise Rowley)",female,NA,0,0,343095,8.05,NA,S,NA,NA,NA,3rd,died
+"Meo, Mr. Alfonzo",male,55.5,0,0,A.5. 11206,8.05,NA,S,NA,201,NA,3rd,died
+"Mernagh, Mr. Robert",male,NA,0,0,368703,7.75,NA,Q,NA,NA,NA,3rd,died
+"Midtsjo, Mr. Karl Albert",male,21,0,0,345501,7.775,NA,S,15,NA,NA,3rd,lived
+"Miles, Mr. Frank",male,NA,0,0,359306,8.05,NA,S,NA,NA,NA,3rd,died
+"Mineff, Mr. Ivan",male,24,0,0,349233,7.8958,NA,S,NA,NA,NA,3rd,died
+"Minkoff, Mr. Lazar",male,21,0,0,349211,7.8958,NA,S,NA,NA,NA,3rd,died
+"Mionoff, Mr. Stoytcho",male,28,0,0,349207,7.8958,NA,S,NA,NA,NA,3rd,died
+"Mitkoff, Mr. Mito",male,NA,0,0,349221,7.8958,NA,S,NA,NA,NA,3rd,died
+"Mockler, Miss. Helen Mary ""Ellie""",female,NA,0,0,330980,7.8792,NA,Q,16,NA,NA,3rd,lived
+"Moen, Mr. Sigurd Hansen",male,25,0,0,348123,7.65,F G73,S,NA,309,NA,3rd,died
+"Moor, Master. Meier",male,6,0,1,392096,12.475,E121,S,14,NA,NA,3rd,lived
+"Moor, Mrs. (Beila)",female,27,0,1,392096,12.475,E121,S,14,NA,NA,3rd,lived
+"Moore, Mr. Leonard Charles",male,NA,0,0,A4. 54510,8.05,NA,S,NA,NA,NA,3rd,died
+"Moran, Miss. Bertha",female,NA,1,0,371110,24.15,NA,Q,16,NA,NA,3rd,lived
+"Moran, Mr. Daniel J",male,NA,1,0,371110,24.15,NA,Q,NA,NA,NA,3rd,died
+"Moran, Mr. James",male,NA,0,0,330877,8.4583,NA,Q,NA,NA,NA,3rd,died
+"Morley, Mr. William",male,34,0,0,364506,8.05,NA,S,NA,NA,NA,3rd,died
+"Morrow, Mr. Thomas Rowan",male,NA,0,0,372622,7.75,NA,Q,NA,NA,NA,3rd,died
+"Moss, Mr. Albert Johan",male,NA,0,0,312991,7.775,NA,S,B,NA,NA,3rd,lived
+"Moubarek, Master. Gerios",male,NA,1,1,2661,15.2458,NA,C,C,NA,NA,3rd,lived
+"Moubarek, Master. Halim Gonios (""William George"")",male,NA,1,1,2661,15.2458,NA,C,C,NA,NA,3rd,lived
+"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",female,NA,0,2,2661,15.2458,NA,C,C,NA,NA,3rd,lived
+"Moussa, Mrs. (Mantoura Boulos)",female,NA,0,0,2626,7.2292,NA,C,NA,NA,NA,3rd,lived
+"Moutal, Mr. Rahamin Haim",male,NA,0,0,374746,8.05,NA,S,NA,NA,NA,3rd,died
+"Mullens, Miss. Katherine ""Katie""",female,NA,0,0,35852,7.7333,NA,Q,16,NA,NA,3rd,lived
+"Mulvihill, Miss. Bertha E",female,24,0,0,382653,7.75,NA,Q,15,NA,NA,3rd,lived
+"Murdlin, Mr. Joseph",male,NA,0,0,A./5. 3235,8.05,NA,S,NA,NA,NA,3rd,died
+"Murphy, Miss. Katherine ""Kate""",female,NA,1,0,367230,15.5,NA,Q,16,NA,NA,3rd,lived
+"Murphy, Miss. Margaret Jane",female,NA,1,0,367230,15.5,NA,Q,16,NA,NA,3rd,lived
+"Murphy, Miss. Nora",female,NA,0,0,36568,15.5,NA,Q,16,NA,NA,3rd,lived
+"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18,0,0,347078,7.75,NA,S,NA,NA,NA,3rd,died
+"Naidenoff, Mr. Penko",male,22,0,0,349206,7.8958,NA,S,NA,NA,NA,3rd,died
+"Najib, Miss. Adele Kiamie ""Jane""",female,15,0,0,2667,7.225,NA,C,C,NA,NA,3rd,lived
+"Nakid, Miss. Maria (""Mary"")",female,1,0,2,2653,15.7417,NA,C,C,NA,NA,3rd,lived
+"Nakid, Mr. Sahid",male,20,1,1,2653,15.7417,NA,C,C,NA,NA,3rd,lived
+"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",female,19,1,1,2653,15.7417,NA,C,C,NA,NA,3rd,lived
+"Nancarrow, Mr. William Henry",male,33,0,0,A./5. 3338,8.05,NA,S,NA,NA,NA,3rd,died
+"Nankoff, Mr. Minko",male,NA,0,0,349218,7.8958,NA,S,NA,NA,NA,3rd,died
+"Nasr, Mr. Mustafa",male,NA,0,0,2652,7.2292,NA,C,NA,NA,NA,3rd,died
+"Naughton, Miss. Hannah",female,NA,0,0,365237,7.75,NA,Q,NA,NA,NA,3rd,died
+"Nenkoff, Mr. Christo",male,NA,0,0,349234,7.8958,NA,S,NA,NA,NA,3rd,died
+"Nicola-Yarred, Master. Elias",male,12,1,0,2651,11.2417,NA,C,C,NA,NA,3rd,lived
+"Nicola-Yarred, Miss. Jamila",female,14,1,0,2651,11.2417,NA,C,C,NA,NA,3rd,lived
+"Nieminen, Miss. Manta Josefina",female,29,0,0,3101297,7.925,NA,S,NA,NA,NA,3rd,died
+"Niklasson, Mr. Samuel",male,28,0,0,363611,8.05,NA,S,NA,NA,NA,3rd,died
+"Nilsson, Miss. Berta Olivia",female,18,0,0,347066,7.775,NA,S,D,NA,NA,3rd,lived
+"Nilsson, Miss. Helmina Josefina",female,26,0,0,347470,7.8542,NA,S,13,NA,NA,3rd,lived
+"Nilsson, Mr. August Ferdinand",male,21,0,0,350410,7.8542,NA,S,NA,NA,NA,3rd,died
+"Nirva, Mr. Iisakki Antino Aijo",male,41,0,0,SOTON/O2 3101272,7.125,NA,S,NA,NA,"Finland Sudbury, ON",3rd,died
+"Niskanen, Mr. Juha",male,39,0,0,STON/O 2. 3101289,7.925,NA,S,9,NA,NA,3rd,lived
+"Nosworthy, Mr. Richard Cater",male,21,0,0,A/4. 39886,7.8,NA,S,NA,NA,NA,3rd,died
+"Novel, Mr. Mansouer",male,28.5,0,0,2697,7.2292,NA,C,NA,181,NA,3rd,died
+"Nysten, Miss. Anna Sofia",female,22,0,0,347081,7.75,NA,S,13,NA,NA,3rd,lived
+"Nysveen, Mr. Johan Hansen",male,61,0,0,345364,6.2375,NA,S,NA,NA,NA,3rd,died
+"O'Brien, Mr. Thomas",male,NA,1,0,370365,15.5,NA,Q,NA,NA,NA,3rd,died
+"O'Brien, Mr. Timothy",male,NA,0,0,330979,7.8292,NA,Q,NA,NA,NA,3rd,died
+"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,NA,1,0,370365,15.5,NA,Q,NA,NA,NA,3rd,lived
+"O'Connell, Mr. Patrick D",male,NA,0,0,334912,7.7333,NA,Q,NA,NA,NA,3rd,died
+"O'Connor, Mr. Maurice",male,NA,0,0,371060,7.75,NA,Q,NA,NA,NA,3rd,died
+"O'Connor, Mr. Patrick",male,NA,0,0,366713,7.75,NA,Q,NA,NA,NA,3rd,died
+"Odahl, Mr. Nils Martin",male,23,0,0,7267,9.225,NA,S,NA,NA,NA,3rd,died
+"O'Donoghue, Ms. Bridget",female,NA,0,0,364856,7.75,NA,Q,NA,NA,NA,3rd,died
+"O'Driscoll, Miss. Bridget",female,NA,0,0,14311,7.75,NA,Q,D,NA,NA,3rd,lived
+"O'Dwyer, Miss. Ellen ""Nellie""",female,NA,0,0,330959,7.8792,NA,Q,NA,NA,NA,3rd,lived
+"Ohman, Miss. Velin",female,22,0,0,347085,7.775,NA,S,C,NA,NA,3rd,lived
+"O'Keefe, Mr. Patrick",male,NA,0,0,368402,7.75,NA,Q,B,NA,NA,3rd,lived
+"O'Leary, Miss. Hanora ""Norah""",female,NA,0,0,330919,7.8292,NA,Q,13,NA,NA,3rd,lived
+"Olsen, Master. Artur Karl",male,9,0,1,C 17368,3.1708,NA,S,13,NA,NA,3rd,lived
+"Olsen, Mr. Henry Margido",male,28,0,0,C 4001,22.525,NA,S,NA,173,NA,3rd,died
+"Olsen, Mr. Karl Siegwart Andreas",male,42,0,1,4579,8.4042,NA,S,NA,NA,NA,3rd,died
+"Olsen, Mr. Ole Martin",male,NA,0,0,Fa 265302,7.3125,NA,S,NA,NA,NA,3rd,died
+"Olsson, Miss. Elina",female,31,0,0,350407,7.8542,NA,S,NA,NA,NA,3rd,died
+"Olsson, Mr. Nils Johan Goransson",male,28,0,0,347464,7.8542,NA,S,NA,NA,NA,3rd,died
+"Olsson, Mr. Oscar Wilhelm",male,32,0,0,347079,7.775,NA,S,A,NA,NA,3rd,lived
+"Olsvigen, Mr. Thor Anderson",male,20,0,0,6563,9.225,NA,S,NA,89,"Oslo, Norway Cameron, WI",3rd,died
+"Oreskovic, Miss. Jelka",female,23,0,0,315085,8.6625,NA,S,NA,NA,NA,3rd,died
+"Oreskovic, Miss. Marija",female,20,0,0,315096,8.6625,NA,S,NA,NA,NA,3rd,died
+"Oreskovic, Mr. Luka",male,20,0,0,315094,8.6625,NA,S,NA,NA,NA,3rd,died
+"Osen, Mr. Olaf Elon",male,16,0,0,7534,9.2167,NA,S,NA,NA,NA,3rd,died
+"Osman, Mrs. Mara",female,31,0,0,349244,8.6833,NA,S,NA,NA,NA,3rd,lived
+"O'Sullivan, Miss. Bridget Mary",female,NA,0,0,330909,7.6292,NA,Q,NA,NA,NA,3rd,died
+"Palsson, Master. Gosta Leonard",male,2,3,1,349909,21.075,NA,S,NA,4,NA,3rd,died
+"Palsson, Master. Paul Folke",male,6,3,1,349909,21.075,NA,S,NA,NA,NA,3rd,died
+"Palsson, Miss. Stina Viola",female,3,3,1,349909,21.075,NA,S,NA,NA,NA,3rd,died
+"Palsson, Miss. Torborg Danira",female,8,3,1,349909,21.075,NA,S,NA,NA,NA,3rd,died
+"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29,0,4,349909,21.075,NA,S,NA,206,NA,3rd,died
+"Panula, Master. Eino Viljami",male,1,4,1,3101295,39.6875,NA,S,NA,NA,NA,3rd,died
+"Panula, Master. Juha Niilo",male,7,4,1,3101295,39.6875,NA,S,NA,NA,NA,3rd,died
+"Panula, Master. Urho Abraham",male,2,4,1,3101295,39.6875,NA,S,NA,NA,NA,3rd,died
+"Panula, Mr. Ernesti Arvid",male,16,4,1,3101295,39.6875,NA,S,NA,NA,NA,3rd,died
+"Panula, Mr. Jaako Arnold",male,14,4,1,3101295,39.6875,NA,S,NA,NA,NA,3rd,died
+"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41,0,5,3101295,39.6875,NA,S,NA,NA,NA,3rd,died
+"Pasic, Mr. Jakob",male,21,0,0,315097,8.6625,NA,S,NA,NA,NA,3rd,died
+"Patchett, Mr. George",male,19,0,0,358585,14.5,NA,S,NA,NA,NA,3rd,died
+"Paulner, Mr. Uscher",male,NA,0,0,3411,8.7125,NA,C,NA,NA,NA,3rd,died
+"Pavlovic, Mr. Stefo",male,32,0,0,349242,7.8958,NA,S,NA,NA,NA,3rd,died
+"Peacock, Master. Alfred Edward",male,0.75,1,1,SOTON/O.Q. 3101315,13.775,NA,S,NA,NA,NA,3rd,died
+"Peacock, Miss. Treasteall",female,3,1,1,SOTON/O.Q. 3101315,13.775,NA,S,NA,NA,NA,3rd,died
+"Peacock, Mrs. Benjamin (Edith Nile)",female,26,0,2,SOTON/O.Q. 3101315,13.775,NA,S,NA,NA,NA,3rd,died
+"Pearce, Mr. Ernest",male,NA,0,0,343271,7,NA,S,NA,NA,NA,3rd,died
+"Pedersen, Mr. Olaf",male,NA,0,0,345498,7.775,NA,S,NA,NA,NA,3rd,died
+"Peduzzi, Mr. Joseph",male,NA,0,0,A/5 2817,8.05,NA,S,NA,NA,NA,3rd,died
+"Pekoniemi, Mr. Edvard",male,21,0,0,STON/O 2. 3101294,7.925,NA,S,NA,NA,NA,3rd,died
+"Peltomaki, Mr. Nikolai Johannes",male,25,0,0,STON/O 2. 3101291,7.925,NA,S,NA,NA,NA,3rd,died
+"Perkin, Mr. John Henry",male,22,0,0,A/5 21174,7.25,NA,S,NA,NA,NA,3rd,died
+"Persson, Mr. Ernst Ulrik",male,25,1,0,347083,7.775,NA,S,15,NA,NA,3rd,lived
+"Peter, Master. Michael J",male,NA,1,1,2668,22.3583,NA,C,C,NA,NA,3rd,lived
+"Peter, Miss. Anna",female,NA,1,1,2668,22.3583,F E69,C,D,NA,NA,3rd,lived
+"Peter, Mrs. Catherine (Catherine Rizk)",female,NA,0,2,2668,22.3583,NA,C,D,NA,NA,3rd,lived
+"Peters, Miss. Katie",female,NA,0,0,330935,8.1375,NA,Q,NA,NA,NA,3rd,died
+"Petersen, Mr. Marius",male,24,0,0,342441,8.05,NA,S,NA,NA,NA,3rd,died
+"Petranec, Miss. Matilda",female,28,0,0,349245,7.8958,NA,S,NA,NA,NA,3rd,died
+"Petroff, Mr. Nedelio",male,19,0,0,349212,7.8958,NA,S,NA,NA,NA,3rd,died
+"Petroff, Mr. Pastcho (""Pentcho"")",male,NA,0,0,349215,7.8958,NA,S,NA,NA,NA,3rd,died
+"Petterson, Mr. Johan Emil",male,25,1,0,347076,7.775,NA,S,NA,NA,NA,3rd,died
+"Pettersson, Miss. Ellen Natalia",female,18,0,0,347087,7.775,NA,S,NA,NA,NA,3rd,died
+"Pickard, Mr. Berk (Berk Trembisky)",male,32,0,0,SOTON/O.Q. 392078,8.05,E10,S,9,NA,NA,3rd,lived
+"Plotcharsky, Mr. Vasil",male,NA,0,0,349227,7.8958,NA,S,NA,NA,NA,3rd,died
+"Pokrnic, Mr. Mate",male,17,0,0,315095,8.6625,NA,S,NA,NA,NA,3rd,died
+"Pokrnic, Mr. Tome",male,24,0,0,315092,8.6625,NA,S,NA,NA,NA,3rd,died
+"Radeff, Mr. Alexander",male,NA,0,0,349223,7.8958,NA,S,NA,NA,NA,3rd,died
+"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,NA,0,0,65305,8.1125,NA,S,NA,NA,NA,3rd,died
+"Razi, Mr. Raihed",male,NA,0,0,2629,7.2292,NA,C,NA,NA,NA,3rd,died
+"Reed, Mr. James George",male,NA,0,0,362316,7.25,NA,S,NA,NA,NA,3rd,died
+"Rekic, Mr. Tido",male,38,0,0,349249,7.8958,NA,S,NA,NA,NA,3rd,died
+"Reynolds, Mr. Harold J",male,21,0,0,342684,8.05,NA,S,NA,NA,NA,3rd,died
+"Rice, Master. Albert",male,10,4,1,382652,29.125,NA,Q,NA,NA,NA,3rd,died
+"Rice, Master. Arthur",male,4,4,1,382652,29.125,NA,Q,NA,NA,NA,3rd,died
+"Rice, Master. Eric",male,7,4,1,382652,29.125,NA,Q,NA,NA,NA,3rd,died
+"Rice, Master. Eugene",male,2,4,1,382652,29.125,NA,Q,NA,NA,NA,3rd,died
+"Rice, Master. George Hugh",male,8,4,1,382652,29.125,NA,Q,NA,NA,NA,3rd,died
+"Rice, Mrs. William (Margaret Norton)",female,39,0,5,382652,29.125,NA,Q,NA,327,NA,3rd,died
+"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",female,22,0,0,3101295,39.6875,NA,S,NA,NA,NA,3rd,died
+"Rintamaki, Mr. Matti",male,35,0,0,STON/O 2. 3101273,7.125,NA,S,NA,NA,NA,3rd,died
+"Riordan, Miss. Johanna ""Hannah""",female,NA,0,0,334915,7.7208,NA,Q,13,NA,NA,3rd,lived
+"Risien, Mr. Samuel Beard",male,NA,0,0,364498,14.5,NA,S,NA,NA,NA,3rd,died
+"Risien, Mrs. Samuel (Emma)",female,NA,0,0,364498,14.5,NA,S,NA,NA,NA,3rd,died
+"Robins, Mr. Alexander A",male,50,1,0,A/5. 3337,14.5,NA,S,NA,119,NA,3rd,died
+"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47,1,0,A/5. 3337,14.5,NA,S,NA,7,NA,3rd,died
+"Rogers, Mr. William John",male,NA,0,0,S.C./A.4. 23567,8.05,NA,S,NA,NA,NA,3rd,died
+"Rommetvedt, Mr. Knud Paust",male,NA,0,0,312993,7.775,NA,S,NA,NA,NA,3rd,died
+"Rosblom, Miss. Salli Helena",female,2,1,1,370129,20.2125,NA,S,NA,NA,NA,3rd,died
+"Rosblom, Mr. Viktor Richard",male,18,1,1,370129,20.2125,NA,S,NA,NA,NA,3rd,died
+"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41,0,2,370129,20.2125,NA,S,NA,NA,NA,3rd,died
+"Roth, Miss. Sarah A",female,NA,0,0,342712,8.05,NA,S,C,NA,NA,3rd,lived
+"Rouse, Mr. Richard Henry",male,50,0,0,A/5 3594,8.05,NA,S,NA,NA,NA,3rd,died
+"Rush, Mr. Alfred George John",male,16,0,0,A/4. 20589,8.05,NA,S,NA,NA,NA,3rd,died
+"Ryan, Mr. Edward",male,NA,0,0,383162,7.75,NA,Q,14,NA,NA,3rd,lived
+"Ryan, Mr. Patrick",male,NA,0,0,371110,24.15,NA,Q,NA,NA,NA,3rd,died
+"Saad, Mr. Amin",male,NA,0,0,2671,7.2292,NA,C,NA,NA,NA,3rd,died
+"Saad, Mr. Khalil",male,25,0,0,2672,7.225,NA,C,NA,NA,NA,3rd,died
+"Saade, Mr. Jean Nassr",male,NA,0,0,2676,7.225,NA,C,NA,NA,NA,3rd,died
+"Sadlier, Mr. Matthew",male,NA,0,0,367655,7.7292,NA,Q,NA,NA,NA,3rd,died
+"Sadowitz, Mr. Harry",male,NA,0,0,LP 1588,7.575,NA,S,NA,NA,NA,3rd,died
+"Saether, Mr. Simon Sivertsen",male,38.5,0,0,SOTON/O.Q. 3101262,7.25,NA,S,NA,32,NA,3rd,died
+"Sage, Master. Thomas Henry",male,NA,8,2,CA. 2343,69.55,NA,S,NA,NA,NA,3rd,died
+"Sage, Master. William Henry",male,14.5,8,2,CA. 2343,69.55,NA,S,NA,67,NA,3rd,died
+"Sage, Miss. Ada",female,NA,8,2,CA. 2343,69.55,NA,S,NA,NA,NA,3rd,died
+"Sage, Miss. Constance Gladys",female,NA,8,2,CA. 2343,69.55,NA,S,NA,NA,NA,3rd,died
+"Sage, Miss. Dorothy Edith ""Dolly""",female,NA,8,2,CA. 2343,69.55,NA,S,NA,NA,NA,3rd,died
+"Sage, Miss. Stella Anna",female,NA,8,2,CA. 2343,69.55,NA,S,NA,NA,NA,3rd,died
+"Sage, Mr. Douglas Bullen",male,NA,8,2,CA. 2343,69.55,NA,S,NA,NA,NA,3rd,died
+"Sage, Mr. Frederick",male,NA,8,2,CA. 2343,69.55,NA,S,NA,NA,NA,3rd,died
+"Sage, Mr. George John Jr",male,NA,8,2,CA. 2343,69.55,NA,S,NA,NA,NA,3rd,died
+"Sage, Mr. John George",male,NA,1,9,CA. 2343,69.55,NA,S,NA,NA,NA,3rd,died
+"Sage, Mrs. John (Annie Bullen)",female,NA,1,9,CA. 2343,69.55,NA,S,NA,NA,NA,3rd,died
+"Salander, Mr. Karl Johan",male,24,0,0,7266,9.325,NA,S,NA,NA,NA,3rd,died
+"Salkjelsvik, Miss. Anna Kristine",female,21,0,0,343120,7.65,NA,S,C,NA,NA,3rd,lived
+"Salonen, Mr. Johan Werner",male,39,0,0,3101296,7.925,NA,S,NA,NA,NA,3rd,died
+"Samaan, Mr. Elias",male,NA,2,0,2662,21.6792,NA,C,NA,NA,NA,3rd,died
+"Samaan, Mr. Hanna",male,NA,2,0,2662,21.6792,NA,C,NA,NA,NA,3rd,died
+"Samaan, Mr. Youssef",male,NA,2,0,2662,21.6792,NA,C,NA,NA,NA,3rd,died
+"Sandstrom, Miss. Beatrice Irene",female,1,1,1,PP 9549,16.7,G6,S,13,NA,NA,3rd,lived
+"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24,0,2,PP 9549,16.7,G6,S,13,NA,NA,3rd,lived
+"Sandstrom, Miss. Marguerite Rut",female,4,1,1,PP 9549,16.7,G6,S,13,NA,NA,3rd,lived
+"Sap, Mr. Julius",male,25,0,0,345768,9.5,NA,S,11,NA,NA,3rd,lived
+"Saundercock, Mr. William Henry",male,20,0,0,A/5. 2151,8.05,NA,S,NA,NA,NA,3rd,died
+"Sawyer, Mr. Frederick Charles",male,24.5,0,0,342826,8.05,NA,S,NA,284,NA,3rd,died
+"Scanlan, Mr. James",male,NA,0,0,36209,7.725,NA,Q,NA,NA,NA,3rd,died
+"Sdycoff, Mr. Todor",male,NA,0,0,349222,7.8958,NA,S,NA,NA,NA,3rd,died
+"Shaughnessy, Mr. Patrick",male,NA,0,0,370374,7.75,NA,Q,NA,NA,NA,3rd,died
+"Sheerlinck, Mr. Jan Baptist",male,29,0,0,345779,9.5,NA,S,11,NA,NA,3rd,lived
+"Shellard, Mr. Frederick William",male,NA,0,0,C.A. 6212,15.1,NA,S,NA,NA,NA,3rd,died
+"Shine, Miss. Ellen Natalia",female,NA,0,0,330968,7.7792,NA,Q,NA,NA,NA,3rd,lived
+"Shorney, Mr. Charles Joseph",male,NA,0,0,374910,8.05,NA,S,NA,NA,NA,3rd,died
+"Simmons, Mr. John",male,NA,0,0,SOTON/OQ 392082,8.05,NA,S,NA,NA,NA,3rd,died
+"Sirayanian, Mr. Orsen",male,22,0,0,2669,7.2292,NA,C,NA,NA,NA,3rd,died
+"Sirota, Mr. Maurice",male,NA,0,0,392092,8.05,NA,S,NA,NA,NA,3rd,died
+"Sivic, Mr. Husein",male,40,0,0,349251,7.8958,NA,S,NA,NA,NA,3rd,died
+"Sivola, Mr. Antti Wilhelm",male,21,0,0,STON/O 2. 3101280,7.925,NA,S,NA,NA,NA,3rd,died
+"Sjoblom, Miss. Anna Sofia",female,18,0,0,3101265,7.4958,NA,S,16,NA,NA,3rd,lived
+"Skoog, Master. Harald",male,4,3,2,347088,27.9,NA,S,NA,NA,NA,3rd,died
+"Skoog, Master. Karl Thorsten",male,10,3,2,347088,27.9,NA,S,NA,NA,NA,3rd,died
+"Skoog, Miss. Mabel",female,9,3,2,347088,27.9,NA,S,NA,NA,NA,3rd,died
+"Skoog, Miss. Margit Elizabeth",female,2,3,2,347088,27.9,NA,S,NA,NA,NA,3rd,died
+"Skoog, Mr. Wilhelm",male,40,1,4,347088,27.9,NA,S,NA,NA,NA,3rd,died
+"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45,1,4,347088,27.9,NA,S,NA,NA,NA,3rd,died
+"Slabenoff, Mr. Petco",male,NA,0,0,349214,7.8958,NA,S,NA,NA,NA,3rd,died
+"Slocovski, Mr. Selman Francis",male,NA,0,0,SOTON/OQ 392086,8.05,NA,S,NA,NA,NA,3rd,died
+"Smiljanic, Mr. Mile",male,NA,0,0,315037,8.6625,NA,S,NA,NA,NA,3rd,died
+"Smith, Mr. Thomas",male,NA,0,0,384461,7.75,NA,Q,NA,NA,NA,3rd,died
+"Smyth, Miss. Julia",female,NA,0,0,335432,7.7333,NA,Q,13,NA,NA,3rd,lived
+"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19,0,0,348124,7.65,F G73,S,NA,NA,NA,3rd,died
+"Somerton, Mr. Francis William",male,30,0,0,A.5. 18509,8.05,NA,S,NA,NA,NA,3rd,died
+"Spector, Mr. Woolf",male,NA,0,0,A.5. 3236,8.05,NA,S,NA,NA,NA,3rd,died
+"Spinner, Mr. Henry John",male,32,0,0,STON/OQ. 369943,8.05,NA,S,NA,NA,NA,3rd,died
+"Staneff, Mr. Ivan",male,NA,0,0,349208,7.8958,NA,S,NA,NA,NA,3rd,died
+"Stankovic, Mr. Ivan",male,33,0,0,349239,8.6625,NA,C,NA,NA,NA,3rd,died
+"Stanley, Miss. Amy Zillah Elsie",female,23,0,0,CA. 2314,7.55,NA,S,C,NA,NA,3rd,lived
+"Stanley, Mr. Edward Roland",male,21,0,0,A/4 45380,8.05,NA,S,NA,NA,NA,3rd,died
+"Storey, Mr. Thomas",male,60.5,0,0,3701,NA,NA,S,NA,261,NA,3rd,died
+"Stoytcheff, Mr. Ilia",male,19,0,0,349205,7.8958,NA,S,NA,NA,NA,3rd,died
+"Strandberg, Miss. Ida Sofia",female,22,0,0,7553,9.8375,NA,S,NA,NA,NA,3rd,died
+"Stranden, Mr. Juho",male,31,0,0,STON/O 2. 3101288,7.925,NA,S,9,NA,NA,3rd,lived
+"Strilic, Mr. Ivan",male,27,0,0,315083,8.6625,NA,S,NA,NA,NA,3rd,died
+"Strom, Miss. Telma Matilda",female,2,0,1,347054,10.4625,G6,S,NA,NA,NA,3rd,died
+"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29,1,1,347054,10.4625,G6,S,NA,NA,NA,3rd,died
+"Sunderland, Mr. Victor Francis",male,16,0,0,SOTON/OQ 392089,8.05,NA,S,B,NA,NA,3rd,lived
+"Sundman, Mr. Johan Julian",male,44,0,0,STON/O 2. 3101269,7.925,NA,S,15,NA,NA,3rd,lived
+"Sutehall, Mr. Henry Jr",male,25,0,0,SOTON/OQ 392076,7.05,NA,S,NA,NA,NA,3rd,died
+"Svensson, Mr. Johan",male,74,0,0,347060,7.775,NA,S,NA,NA,NA,3rd,died
+"Svensson, Mr. Johan Cervin",male,14,0,0,7538,9.225,NA,S,13,NA,NA,3rd,lived
+"Svensson, Mr. Olof",male,24,0,0,350035,7.7958,NA,S,NA,NA,NA,3rd,died
+"Tenglin, Mr. Gunnar Isidor",male,25,0,0,350033,7.7958,NA,S,13 15,NA,NA,3rd,lived
+"Theobald, Mr. Thomas Leonard",male,34,0,0,363294,8.05,NA,S,NA,176,NA,3rd,died
+"Thomas, Master. Assad Alexander",male,0.4167,0,1,2625,8.5167,NA,C,16,NA,NA,3rd,lived
+"Thomas, Mr. Charles P",male,NA,1,0,2621,6.4375,NA,C,NA,NA,NA,3rd,died
+"Thomas, Mr. John",male,NA,0,0,2681,6.4375,NA,C,NA,NA,NA,3rd,died
+"Thomas, Mr. Tannous",male,NA,0,0,2684,7.225,NA,C,NA,NA,NA,3rd,died
+"Thomas, Mrs. Alexander (Thamine ""Thelma"")",female,16,1,1,2625,8.5167,NA,C,14,NA,NA,3rd,lived
+"Thomson, Mr. Alexander Morrison",male,NA,0,0,32302,8.05,NA,S,NA,NA,NA,3rd,died
+"Thorneycroft, Mr. Percival",male,NA,1,0,376564,16.1,NA,S,NA,NA,NA,3rd,died
+"Thorneycroft, Mrs. Percival (Florence Kate White)",female,NA,1,0,376564,16.1,NA,S,10,NA,NA,3rd,lived
+"Tikkanen, Mr. Juho",male,32,0,0,STON/O 2. 3101293,7.925,NA,S,NA,NA,NA,3rd,died
+"Tobin, Mr. Roger",male,NA,0,0,383121,7.75,F38,Q,NA,NA,NA,3rd,died
+"Todoroff, Mr. Lalio",male,NA,0,0,349216,7.8958,NA,S,NA,NA,NA,3rd,died
+"Tomlin, Mr. Ernest Portage",male,30.5,0,0,364499,8.05,NA,S,NA,50,NA,3rd,died
+"Torber, Mr. Ernst William",male,44,0,0,364511,8.05,NA,S,NA,NA,NA,3rd,died
+"Torfa, Mr. Assad",male,NA,0,0,2673,7.2292,NA,C,NA,NA,NA,3rd,died
+"Tornquist, Mr. William Henry",male,25,0,0,LINE,0,NA,S,15,NA,NA,3rd,lived
+"Toufik, Mr. Nakli",male,NA,0,0,2641,7.2292,NA,C,NA,NA,NA,3rd,died
+"Touma, Master. Georges Youssef",male,7,1,1,2650,15.2458,NA,C,C,NA,NA,3rd,lived
+"Touma, Miss. Maria Youssef",female,9,1,1,2650,15.2458,NA,C,C,NA,NA,3rd,lived
+"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29,0,2,2650,15.2458,NA,C,C,NA,NA,3rd,lived
+"Turcin, Mr. Stjepan",male,36,0,0,349247,7.8958,NA,S,NA,NA,NA,3rd,died
+"Turja, Miss. Anna Sofia",female,18,0,0,4138,9.8417,NA,S,15,NA,NA,3rd,lived
+"Turkula, Mrs. (Hedwig)",female,63,0,0,4134,9.5875,NA,S,15,NA,NA,3rd,lived
+"van Billiard, Master. James William",male,NA,1,1,A/5. 851,14.5,NA,S,NA,NA,NA,3rd,died
+"van Billiard, Master. Walter John",male,11.5,1,1,A/5. 851,14.5,NA,S,NA,1,NA,3rd,died
+"van Billiard, Mr. Austin Blyler",male,40.5,0,2,A/5. 851,14.5,NA,S,NA,255,NA,3rd,died
+"Van Impe, Miss. Catharina",female,10,0,2,345773,24.15,NA,S,NA,NA,NA,3rd,died
+"Van Impe, Mr. Jean Baptiste",male,36,1,1,345773,24.15,NA,S,NA,NA,NA,3rd,died
+"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30,1,1,345773,24.15,NA,S,NA,NA,NA,3rd,died
+"van Melkebeke, Mr. Philemon",male,NA,0,0,345777,9.5,NA,S,NA,NA,NA,3rd,died
+"Vande Velde, Mr. Johannes Joseph",male,33,0,0,345780,9.5,NA,S,NA,NA,NA,3rd,died
+"Vande Walle, Mr. Nestor Cyriel",male,28,0,0,345770,9.5,NA,S,NA,NA,NA,3rd,died
+"Vanden Steen, Mr. Leo Peter",male,28,0,0,345783,9.5,NA,S,NA,NA,NA,3rd,died
+"Vander Cruyssen, Mr. Victor",male,47,0,0,345765,9,NA,S,NA,NA,NA,3rd,died
+"Vander Planke, Miss. Augusta Maria",female,18,2,0,345764,18,NA,S,NA,NA,NA,3rd,died
+"Vander Planke, Mr. Julius",male,31,3,0,345763,18,NA,S,NA,NA,NA,3rd,died
+"Vander Planke, Mr. Leo Edmondus",male,16,2,0,345764,18,NA,S,NA,NA,NA,3rd,died
+"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,1,0,345763,18,NA,S,NA,NA,NA,3rd,died
+"Vartanian, Mr. David",male,22,0,0,2658,7.225,NA,C,13 15,NA,NA,3rd,lived
+"Vendel, Mr. Olof Edvin",male,20,0,0,350416,7.8542,NA,S,NA,NA,NA,3rd,died
+"Vestrom, Miss. Hulda Amanda Adolfina",female,14,0,0,350406,7.8542,NA,S,NA,NA,NA,3rd,died
+"Vovk, Mr. Janko",male,22,0,0,349252,7.8958,NA,S,NA,NA,NA,3rd,died
+"Waelens, Mr. Achille",male,22,0,0,345767,9,NA,S,NA,NA,"Antwerp, Belgium / Stanton, OH",3rd,died
+"Ware, Mr. Frederick",male,NA,0,0,359309,8.05,NA,S,NA,NA,NA,3rd,died
+"Warren, Mr. Charles William",male,NA,0,0,C.A. 49867,7.55,NA,S,NA,NA,NA,3rd,died
+"Webber, Mr. James",male,NA,0,0,SOTON/OQ 3101316,8.05,NA,S,NA,NA,NA,3rd,died
+"Wenzel, Mr. Linhart",male,32.5,0,0,345775,9.5,NA,S,NA,298,NA,3rd,died
+"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38,0,0,2688,7.2292,NA,C,C,NA,NA,3rd,lived
+"Widegren, Mr. Carl/Charles Peter",male,51,0,0,347064,7.75,NA,S,NA,NA,NA,3rd,died
+"Wiklund, Mr. Jakob Alfred",male,18,1,0,3101267,6.4958,NA,S,NA,314,NA,3rd,died
+"Wiklund, Mr. Karl Johan",male,21,1,0,3101266,6.4958,NA,S,NA,NA,NA,3rd,died
+"Wilkes, Mrs. James (Ellen Needs)",female,47,1,0,363272,7,NA,S,NA,NA,NA,3rd,lived
+"Willer, Mr. Aaron (""Abi Weller"")",male,NA,0,0,3410,8.7125,NA,S,NA,NA,NA,3rd,died
+"Willey, Mr. Edward",male,NA,0,0,S.O./P.P. 751,7.55,NA,S,NA,NA,NA,3rd,died
+"Williams, Mr. Howard Hugh ""Harry""",male,NA,0,0,A/5 2466,8.05,NA,S,NA,NA,NA,3rd,died
+"Williams, Mr. Leslie",male,28.5,0,0,54636,16.1,NA,S,NA,14,NA,3rd,died
+"Windelov, Mr. Einar",male,21,0,0,SOTON/OQ 3101317,7.25,NA,S,NA,NA,NA,3rd,died
+"Wirz, Mr. Albert",male,27,0,0,315154,8.6625,NA,S,NA,131,NA,3rd,died
+"Wiseman, Mr. Phillippe",male,NA,0,0,A/4. 34244,7.25,NA,S,NA,NA,NA,3rd,died
+"Wittevrongel, Mr. Camille",male,36,0,0,345771,9.5,NA,S,NA,NA,NA,3rd,died
+"Yasbeck, Mr. Antoni",male,27,1,0,2659,14.4542,NA,C,C,NA,NA,3rd,died
+"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15,1,0,2659,14.4542,NA,C,NA,NA,NA,3rd,lived
+"Youseff, Mr. Gerious",male,45.5,0,0,2628,7.225,NA,C,NA,312,NA,3rd,died
+"Yousif, Mr. Wazli",male,NA,0,0,2647,7.225,NA,C,NA,NA,NA,3rd,died
+"Yousseff, Mr. Gerious",male,NA,0,0,2627,14.4583,NA,C,NA,NA,NA,3rd,died
+"Zabour, Miss. Hileni",female,14.5,1,0,2665,14.4542,NA,C,NA,328,NA,3rd,died
+"Zabour, Miss. Thamine",female,NA,1,0,2665,14.4542,NA,C,NA,NA,NA,3rd,died
+"Zakarian, Mr. Mapriededer",male,26.5,0,0,2656,7.225,NA,C,NA,304,NA,3rd,died
+"Zakarian, Mr. Ortin",male,27,0,0,2670,7.225,NA,C,NA,NA,NA,3rd,died
+"Zimmerman, Mr. Leo",male,29,0,0,315082,7.875,NA,S,NA,NA,NA,3rd,died
